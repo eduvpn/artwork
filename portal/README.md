@@ -1,1 +1,1 @@
-VPN Portal Styling for eduVPN.
+VPN Portal Artwork for eduVPN.

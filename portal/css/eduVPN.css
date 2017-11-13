@@ -1,0 +1,33 @@
+/** 
+ * eduvpn custom style
+ */
+h1, h2, h3, h4 {
+    font-weight: 500;
+}
+
+a {
+    color: #df7f0c;
+}
+
+ul.menu {
+    /* same height as background image of the h1 */
+    height: 119px;
+}
+
+ul.menu li.active a {
+    background-color: #df7f0c;
+}
+
+/* only show the logo when width is >= 800px */
+@media (min-width: 800px) {
+    h1 {
+        display: block;
+        float: right;
+        color: transparent; /* hide header text */
+        width: 300px;
+        height: 119px;
+        background-image: url("../../img/eduVPN/eduVPN.png");
+        background-repeat: no-repeat;
+        background-position: 100% 0%;
+    }
+}

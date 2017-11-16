@@ -20,7 +20,14 @@ The styling is intended for all eduVPN applications. Currently this means the ed
 * The font used is Open Sans.
 
 ## Logo and banner
+* The font used is SURFnet's Gotham Rounded.
+
 This page will be elaborated at a later point. For more information about the styling, please look at the Styling version 2 [requirements document](https://github.com/eduvpn/documentation/tree/master/app/windows).
+
+# Changelog
+## 3.0 to 3.1
+* Logo and banner text font added.
+* Made most instructional text in the app smaller and simpler.
 * Made 'VPN type', 'Provider' and 'Profile' consistent across all apps.
 * Made the styling compatible with multiple themes. This in preperation for using the styling for Let's Connect!.
 * Changed 'institution' to 'organization'.

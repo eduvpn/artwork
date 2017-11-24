@@ -1,5 +1,5 @@
 # Styling version 3.1
-This is the third iteration of the app and UI styling in the eduVPN project. There has been one update (3.1) since with small improvements. In the bottom of this page you will find the changelog.
+This is the third iteration of the app and UI styling in the eduVPN project. There has been two updates (3.2) since with small improvements. In the bottom of this page you will find the changelog.
 
 ## General impression
 ![Overview styling version 3](overview.png)
@@ -25,6 +25,11 @@ The styling is intended for all eduVPN applications. Currently this means the ed
 This page will be elaborated at a later point. For more information about the styling, please look at the Styling version 2 [requirements document](https://github.com/eduvpn/documentation/tree/master/app/windows).
 
 # Changelog
+## 3.1 to 3.2
+* Updated status icon in VPN-connection screen.
+* Fixed left over inconsistency with 'profile' and 'provider'.
+* Connect and Disconnect buttons are the same size.
+
 ## 3.0 to 3.1
 * Logo and banner text font added.
 * Made most instructional text in the app smaller and simpler.

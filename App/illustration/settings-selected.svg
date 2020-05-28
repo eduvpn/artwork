@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illustration/settings-selected</title>
+    <g id="illustration/settings-selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,3 C21.627417,3 27,8.372583 27,15 C27,21.627417 21.627417,27 15,27 C8.372583,27 3,21.627417 3,15 C3,8.372583 8.372583,3 15,3 Z M15,8 C11.1340068,8 8,11.1340068 8,15 C8,18.8659932 11.1340068,22 15,22 C18.8659932,22 22,18.8659932 22,15 C22,11.1340068 18.8659932,8 15,8 Z" id="Oval" fill="#216AED" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(12.000000, 0.000000)" fill="#216AED">
+            <rect id="Rectangle" x="0" y="0" width="6" height="4"></rect>
+            <rect id="Rectangle-Copy" x="0" y="26" width="6" height="4"></rect>
+        </g>
+        <g id="Group" transform="translate(15.000000, 15.000000) rotate(90.000000) translate(-15.000000, -15.000000) translate(12.000000, 0.000000)" fill="#216AED">
+            <rect id="Rectangle" x="0" y="0" width="6" height="4"></rect>
+            <rect id="Rectangle-Copy" x="0" y="26" width="6" height="4"></rect>
+        </g>
+        <g id="Group" transform="translate(15.000000, 15.000000) rotate(-45.000000) translate(-15.000000, -15.000000) translate(12.000000, 0.000000)" fill="#216AED">
+            <rect id="Rectangle" x="0" y="0" width="6" height="4"></rect>
+            <rect id="Rectangle-Copy" x="0" y="26" width="6" height="4"></rect>
+        </g>
+        <g id="Group" transform="translate(15.000000, 15.000000) rotate(45.000000) translate(-15.000000, -15.000000) translate(12.000000, 0.000000)" fill="#216AED">
+            <rect id="Rectangle" x="0" y="0" width="6" height="4"></rect>
+            <rect id="Rectangle-Copy" x="0" y="26" width="6" height="4"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AU</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="11.9673913" height="9"></rect>
+    </defs>
+    <g id="Design-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="11-Flags" transform="translate(-148.000000, -68.000000)">
+            <g id="AU" transform="translate(148.000000, 68.000000)">
+                <g id="Australia">
+                    <rect id="Rectangle-119-Copy" fill="#00247D" x="0" y="0" width="24" height="18"></rect>
+                    <rect id="Rectangle-28-Copy" fill="#FFFFFF" x="18" y="3" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle-28-Copy-4" fill="#FFFFFF" x="16.5" y="7.5" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle-28-Copy-5" fill="#FFFFFF" x="21" y="6" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle-28-Copy-7" fill="#FFFFFF" x="19.5" y="9" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle-28-Copy-6" fill="#FFFFFF" x="18" y="13.5" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle-54" fill="#FFFFFF" x="4.5" y="12" width="3" height="3"></rect>
+                    <g id="GB-Symbol">
+                        <g id="UK">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <g id="St-Andrew" mask="url(#mask-2)">
+                                <g transform="translate(-1.495924, -1.500000)">
+                                    <rect id="Rectangle-77" fill="#00247D" x="1.49592391" y="1.5" width="11.9673913" height="9"></rect>
+                                    <polygon id="Rectangle-3" fill="#FFFFFF" transform="translate(7.368279, 5.797666) rotate(36.000000) translate(-7.368279, -5.797666) " points="-0.933535628 4.66297767 15.6671852 4.68446728 15.6700926 6.9323549 -0.930628186 6.91086529"></polygon>
+                                    <polygon id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(7.368279, 5.797666) scale(-1, 1) rotate(36.000000) translate(-7.368279, -5.797666) " points="-0.933535628 4.66297767 15.6671852 4.68446728 15.6700926 6.9323549 -0.930628186 6.91086529"></polygon>
+                                </g>
+                            </g>
+                            <g id="St-Patrick" mask="url(#mask-2)">
+                                <g transform="translate(-0.831069, -4.166667)">
+                                    <g id="Group-2" transform="translate(0.083107, 3.750000)">
+                                        <polygon id="Rectangle-2" fill="#CF142B" transform="translate(3.316180, 2.750815) rotate(36.000000) translate(-3.316180, -2.750815) " points="-0.515218366 2.37120753 7.14660893 2.38112576 7.14757808 3.13042163 -0.514249219 3.12050341"></polygon>
+                                        <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(10.047837, 6.950815) rotate(36.000000) translate(-10.047837, -6.950815) " points="6.21643924 6.57120769 13.8782665 6.58112591 13.8792357 7.33042178 6.21740839 7.32050356"></polygon>
+                                    </g>
+                                    <g id="Group-2-Copy" transform="translate(6.864132, 8.244642) rotate(-72.000000) translate(-6.864132, -8.244642) translate(0.049368, 3.411308)">
+                                        <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(9.982981, 6.914406) rotate(36.000000) translate(-9.982981, -6.914406) " points="5.82797542 6.53438002 14.1370177 6.54513607 14.1379868 7.29443194 5.82894457 7.2836759"></polygon>
+                                        <polygon id="Rectangle-2" fill="#CF142B" transform="translate(3.432625, 2.829569) rotate(36.000000) translate(-3.432625, -2.829569) " points="-0.398772782 2.44996242 7.26305452 2.45988064 7.26402366 3.20917652 -0.397803635 3.19925829"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="St-George" mask="url(#mask-2)">
+                                <path d="M7.47961957,0 L7.479,3 L11.9673913,3 L11.9673913,6 L7.479,6 L7.47961957,9 L4.48777174,9 L4.487,6 L0,6 L0,3 L4.487,3 L4.48777174,0 L7.47961957,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                                <polygon id="Rectangle-112" fill="#CF142B" points="11.9673913 3.75 11.9673913 5.25 6.73165761 5.25 6.73165761 9 5.2357337 9 5.2357337 5.25 0 5.25 0 3.75 5.2357337 3.75 5.2357337 0 6.73165761 0 6.73165761 3.75"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Overlay" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                        <g>
+                            <rect stroke-width="2.25" style="mix-blend-mode: multiply;" x="1.125" y="1.125" width="21.75" height="15.75"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

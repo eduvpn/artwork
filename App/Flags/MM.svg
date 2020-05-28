@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="MM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Myanmar">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#EA2839" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-91" fill="#34B233" mask="url(#mask-2)" x="0" y="0" width="16" height="8"></rect>
+            <rect id="Rectangle-119-Copy-90" fill="#FECB00" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="8.00081383 7.93734633 5.5281749 9.70002699 6.44049638 6.80370934 4 4.99678825 7.03648461 4.96944616 8.00081383 2.09002686 8.96514306 4.96944616 12.0016277 4.99678825 9.56113129 6.80370934 10.4734528 9.70002699"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

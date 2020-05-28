@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ER</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="ER" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Eritrea">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#4189DD" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-50" fill="#12AD2B" mask="url(#mask-2)" x="0" y="0" width="16" height="6"></rect>
+            <polygon id="Rectangle-119-Copy-36" fill="#EA0437" mask="url(#mask-2)" points="0 0 16 6 0 12"></polygon>
+            <rect id="Rectangle-12" fill="#FFC726" mask="url(#mask-2)" x="3" y="3.79785156" width="2" height="4.20214844"></rect>
+            <circle id="Oval-12" stroke="#FFC726" mask="url(#mask-2)" cx="4" cy="6" r="2.5"></circle>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

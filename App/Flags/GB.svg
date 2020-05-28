@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GB</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="GB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="United-Kingdom">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="GB-Symbol" mask="url(#mask-2)">
+                <g id="UK">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <g id="St-Andrew" mask="url(#mask-4)">
+                        <g transform="translate(-2.000000, -2.000000)">
+                            <rect id="Rectangle-77" fill="#00247D" x="2" y="2" width="16" height="12"></rect>
+                            <rect id="Rectangle-3" fill="#FFFFFF" transform="translate(9.851141, 7.730222) rotate(36.000000) translate(-9.851141, -7.730222) " x="-1.23572508" y="6.23022172" width="22.1737317" height="3"></rect>
+                            <rect id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(9.851141, 7.730222) scale(-1, 1) rotate(36.000000) translate(-9.851141, -7.730222) " x="-1.23572508" y="6.23022172" width="22.1737317" height="3"></rect>
+                        </g>
+                    </g>
+                    <g id="St-Patrick" mask="url(#mask-4)">
+                        <g transform="translate(-2.000000, -6.000000)">
+                            <g id="Group-2" transform="translate(1.000000, 5.000000)">
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(4.433621, 4.112197) rotate(36.000000) translate(-4.433621, -4.112197) " points="-0.683364684 3.61219722 9.55060673 3.61219722 9.55060673 4.61219722 -0.683364684 4.61219722"></polygon>
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(13.433621, 9.712197) rotate(36.000000) translate(-13.433621, -9.712197) " points="8.31663532 9.21219742 18.5506067 9.21219742 18.5506067 10.2121974 8.31663532 10.2121974"></polygon>
+                            </g>
+                            <g id="Group-2-Copy" transform="translate(10.154508, 11.524472) rotate(-72.000000) translate(-10.154508, -11.524472) translate(0.654508, 4.524472)">
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(13.791355, 9.663652) rotate(36.000000) translate(-13.791355, -9.663652) " points="8.24212359 9.16365242 19.3405858 9.16365242 19.3405858 10.1636524 8.24212359 10.1636524"></polygon>
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(5.033749, 4.217204) rotate(36.000000) translate(-5.033749, -4.217204) " points="-0.0832364067 3.71720374 10.150735 3.71720374 10.150735 4.71720374 -0.0832364067 4.71720374"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="St-George" mask="url(#mask-4)">
+                        <path d="M10,0 L10,4 L16,4 L16,8 L10,8 L10,12 L6,12 L6,8 L0,8 L0,4 L6,4 L6,0 L10,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <polygon id="Rectangle-112" fill="#CF142B" points="16 5 16 7 9 7 9 12 7 12 7 7 0 7 0 5 7 5 7 0 9 0 9 5"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

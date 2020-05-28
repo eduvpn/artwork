@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MO</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="MO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Macao">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#00785E" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="stars" mask="url(#mask-2)" fill="#FFDE00">
+                <g transform="translate(4.000000, 2.000000)">
+                    <rect id="Rectangle-28-Copy-2" x="3" y="0" width="2" height="2"></rect>
+                    <rect id="Rectangle-28-Copy-8" x="1" y="2" width="1" height="1"></rect>
+                    <rect id="Rectangle-28-Copy-9" x="-1.137e-13" y="4" width="1" height="1"></rect>
+                    <rect id="Rectangle-28-Copy-11" x="6" y="2" width="1" height="1"></rect>
+                    <rect id="Rectangle-28-Copy-10" x="7" y="4" width="1" height="1"></rect>
+                </g>
+            </g>
+            <g id="lotus" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(3.000000, 5.000000)">
+                    <path d="M5,4 C5.46875,3.75 6,3.1045695 6,2 C6,0.8954305 5.375,0.1875 5,0 C4.625,0.1875 4,0.8954305 4,2 C4,3.1045695 4.40625,3.78125 5,4 Z" id="Oval-41"></path>
+                    <path d="M6.93185165,5.48236191 C7.40060165,5.23236191 7.93185165,4.58693141 7.93185165,3.48236191 C7.93185165,2.37779241 7.30685165,1.66986191 6.93185165,1.48236191 C6.55685165,1.66986191 5.93185165,2.37779241 5.93185165,3.48236191 C5.93185165,4.58693141 6.33810165,5.26361191 6.93185165,5.48236191 Z" id="Oval-41-Copy-2" transform="translate(6.931852, 3.482362) rotate(-285.000000) translate(-6.931852, -3.482362) "></path>
+                    <path d="M3.06814835,5.48236191 C3.53689835,5.23236191 4.06814835,4.58693141 4.06814835,3.48236191 C4.06814835,2.37779241 3.44314835,1.66986191 3.06814835,1.48236191 C2.69314835,1.66986191 2.06814835,2.37779241 2.06814835,3.48236191 C2.06814835,4.58693141 2.47439835,5.26361191 3.06814835,5.48236191 Z" id="Oval-41-Copy" transform="translate(3.068148, 3.482362) rotate(-75.000000) translate(-3.068148, -3.482362) "></path>
+                    <path d="M8.87400442,2.9999149 C8.42999122,4.72518529 6.86387007,6 5,6 C3.13612993,6 1.57000878,4.72518529 1.12599558,2.9999149 Z" id="Combined-Shape" opacity="0.5"></path>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

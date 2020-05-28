@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ZM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="ZM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zambia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#198A00" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-21" fill="#DE2010" mask="url(#mask-2)" x="10" y="4.32000017" width="6" height="7.67999983"></rect>
+            <polygon id="Rectangle-21-Copy" fill="#EF7D00" mask="url(#mask-2)" points="14 4.32000017 16 4.32000017 16 12 14 12"></polygon>
+            <polygon id="Rectangle-21-Copy-2" fill="#000000" mask="url(#mask-2)" points="12 4.32000017 14 4.32000017 14 12 12 12"></polygon>
+            <path d="M12.9773802,3.47867525 L13.7563294,2.44007641 L15.6105184,2.44007641 L15.6105184,1.44007641 L13.2563294,1.44007641 L12.64217,2.25895554 L13.480278,2.31799617 L13.1398945,1.69911704 L12.7017865,1.94007641 L13.2017865,1.94007641 L13.2017865,0.816691081 L12.7017865,0.816691081 C12.4556384,0.816691081 12.3878344,0.877785049 12.2074635,1.0924032 C12.1620144,1.14648183 12.1143452,1.20813279 12.0264265,1.32352439 C12.0099672,1.34488644 12.0099672,1.34488644 11.993903,1.36554188 C11.9715464,1.39419987 11.951737,1.41898104 11.9343238,1.44007641 C11.3886751,1.44007641 11.3143112,1.44007641 10.4738216,1.44007641 L10.4738216,2.44007641 L12.107666,2.44007641 C12.2218669,2.44007641 12.3045686,2.42777547 12.3795064,2.39163185 L12.9773802,3.47867525 Z" id="Path-7" fill="#EF7D00" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

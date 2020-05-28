@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EH</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="EH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Western-Sahara">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#2875C6" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-74" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <rect id="Rectangle-9" fill="#007A3D" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <polygon id="Rectangle-119-Copy-36" fill="#C4111B" mask="url(#mask-2)" points="0 0 5 6 0 12"></polygon>
+            <g id="Group-5" mask="url(#mask-2)" fill="#C4111B">
+                <g transform="translate(6.000000, 4.000000)">
+                    <path d="M1.93439299,0.624031947 C2.01810482,0.624031947 2.10018165,0.631032188 2.18007004,0.644479223 C1.48444812,0.760816305 0.954801152,1.36526516 0.954801152,2.0934197 C0.954801152,2.82157424 1.48444812,3.4260231 2.17950232,3.54252655 L2.07590484,3.55608101 L2.07590484,3.55608101 L1.93439299,3.56280746 C1.12287254,3.56280746 0.465005234,2.90494015 0.465005234,2.0934197 C0.465005234,1.28189925 1.12287254,0.624031947 1.93439299,0.624031947 Z" id="Combined-Shape"></path>
+                    <polygon id="Star-2" transform="translate(2.393577, 2.032032) rotate(90.000000) translate(-2.393577, -2.032032) " points="2.65339861 2.47817798 2.13674092 3.17599552 2.12892292 2.3077655 1.30560299 2.03203231 2.12892292 1.75629912 2.13674092 0.888069094 2.65339861 1.58588664 3.48155033 1.32502416 2.97754242 2.03203231 3.48155033 2.73904046"></polygon>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

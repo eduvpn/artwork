@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GI</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="GI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Gibraltar">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <polygon id="Combined-Shape" fill="#DA000C" mask="url(#mask-2)" points="11 3 11 8 16 8 16 12 0 12 0 8 5 8 5 3 6 3 6 5 7 5 7 3 9 3 9 5 10 5 10 3"></polygon>
+            <rect id="Rectangle-101" fill="#F8D80E" mask="url(#mask-2)" x="7.5" y="8" width="1" height="3"></rect>
+            <rect id="Rectangle-105" fill="#181A1A" mask="url(#mask-2)" x="6" y="7" width="1" height="1"></rect>
+            <rect id="Rectangle-107" fill="#181A1A" mask="url(#mask-2)" x="5" y="4" width="1" height="1"></rect>
+            <rect id="Rectangle-108" fill="#181A1A" mask="url(#mask-2)" x="7" y="4" width="2" height="1"></rect>
+            <rect id="Rectangle-109" fill="#181A1A" mask="url(#mask-2)" x="10" y="4" width="1" height="1"></rect>
+            <rect id="Rectangle-106" fill="#181A1A" mask="url(#mask-2)" x="9" y="7" width="1" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

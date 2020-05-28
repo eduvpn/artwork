@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GW</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="GW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guinea-Bissau">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#009E49" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-60" fill="#FCD116" mask="url(#mask-2)" x="0" y="0" width="16" height="6"></rect>
+            <rect id="Rectangle-119-Copy-61" fill="#CE1126" mask="url(#mask-2)" x="0" y="0" width="5" height="12"></rect>
+            <polygon id="Star-2" fill="#000000" mask="url(#mask-2)" points="2.5 6.81931398 1.50805544 7.52644573 1.87404997 6.36453466 0.894999981 5.63965504 2.1131416 5.62868626 2.5 4.47355427 2.8868584 5.62868626 4.10500002 5.63965504 3.12595003 6.36453466 3.49194456 7.52644573"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

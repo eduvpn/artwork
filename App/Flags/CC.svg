@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CC</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="CC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cocos-(Keeling)-Islands-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#008000" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-28-Copy" fill="#FFE000" mask="url(#mask-2)" x="12" y="2" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-4" fill="#FFE000" mask="url(#mask-2)" x="11" y="5" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-5" fill="#FFE000" mask="url(#mask-2)" x="14" y="4" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-7" fill="#FFE000" mask="url(#mask-2)" x="13" y="6" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-6" fill="#FFE000" mask="url(#mask-2)" x="12" y="9" width="1" height="1"></rect>
+            <path d="M8.20625467,3.5052012 C9.07635478,3.5052012 9.84241933,3.95063042 10.2888596,4.62590013 C9.91880393,4.22452455 9.38816662,3.97297597 8.798777,3.97297597 C7.67928254,3.97297597 6.77175297,4.88050554 6.77175297,6 C6.77175297,7.11949446 7.67928254,8.02702403 8.798777,8.02702403 C9.38886018,8.02702403 9.92005269,7.77488309 10.2904927,7.37246303 C9.84394753,8.0484805 9.07722271,8.4947988 8.20625467,8.4947988 C6.82841533,8.4947988 5.71145586,7.37783933 5.71145586,6 C5.71145586,4.62216067 6.82841533,3.5052012 8.20625467,3.5052012 Z" id="Combined-Shape" fill="#FFC639" mask="url(#mask-2)"></path>
+            <circle id="Oval-34" fill="#FFC639" mask="url(#mask-2)" cx="3" cy="3" r="2"></circle>
+            <rect id="Rectangle-29" fill="#008000" mask="url(#mask-2)" x="2" y="2" width="2" height="1"></rect>
+            <rect id="Rectangle-29-Copy" fill="#802000" mask="url(#mask-2)" x="2.5" y="3" width="1" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

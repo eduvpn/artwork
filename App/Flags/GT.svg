@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GT</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="GT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Guatemala">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy-2" fill="#4997D0" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="5" y="0" width="6" height="12"></rect>
+            <path d="M9,5 L7,5 C7,5.55228475 7.44771525,6 8,6 C8.55228475,6 9,5.55228475 9,5 Z M6,5 L10,5 C10,6.1045695 9.1045695,7 8,7 C6.8954305,7 6,6.1045695 6,5 Z" id="Oval-18" fill="#67923D" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <circle id="Oval-18" fill="#E5D185" mask="url(#mask-2)" cx="8" cy="5" r="1"></circle>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

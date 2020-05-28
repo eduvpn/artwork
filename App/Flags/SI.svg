@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SI</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="SI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Slovenia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-74" fill="#ED1C24" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-77" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <rect id="Rectangle-78" fill="#005DA4" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <polygon id="Rectangle-46" fill="#005DA4" mask="url(#mask-2)" points="2 2 4 2 6 2 6 5 4 7 2 5"></polygon>
+            <polygon id="Rectangle-268" fill="#FFFFFF" mask="url(#mask-2)" points="3 4 5 4 5 5 4 6 3 5"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

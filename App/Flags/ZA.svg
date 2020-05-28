@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ZA</title>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 12 0 12"></polygon>
+    </defs>
+    <g id="ZA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-Africa">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#BB7474" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#002395" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-55" fill="#DE3831" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <path d="M0.316457549,-1.94536189 L-1.35022664,0.94141981 L4.72028946,6 L-1.35022664,11.0585802 L0.316457549,13.9453619 L8.38251035,7.66833333 L16.335,7.66833333 L16.335,4.33166667 L8.38251035,4.33166667 L0.316457549,-1.94536189 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="0.67" fill="#007A4D" mask="url(#mask-2)"></path>
+            <polygon id="Path" fill="#FFB612" mask="url(#mask-2)" points="-0.67 1.02413004 5.27732265 6 -0.67 10.97587"></polygon>
+            <polygon id="Path-2" fill="#000000" fill-rule="nonzero" mask="url(#mask-2)" points="0 2.45826221 0 9.54173779 4.23320094 6"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

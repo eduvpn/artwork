@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HN</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="HN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Honduras">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-77" fill="#0073CF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-153" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <polygon id="Star-2" fill="#0073CF" mask="url(#mask-2)" points="11.29 7.65461071 10.8017532 8.00266934 10.9819 7.43076294 10.5 7.07396861 11.0995837 7.06856965 11.29 6.5 11.4804163 7.06856965 12.08 7.07396861 11.5981 7.43076294 11.7782469 8.00266934"></polygon>
+            <polygon id="Star-2" fill="#0073CF" mask="url(#mask-2)" points="11.2885967 5.15255967 10.8012171 5.5 10.981044 4.92910954 10.5 4.57294902 11.0985186 4.56755964 11.2885967 4 11.4786747 4.56755964 12.0771933 4.57294902 11.5961494 4.92910954 11.7759762 5.5"></polygon>
+            <polygon id="Star-2-Copy-9" fill="#0073CF" mask="url(#mask-2)" points="4.29000002 7.65461071 3.80175316 8.00266934 3.9819 7.43076294 3.5 7.07396861 4.09958374 7.06856965 4.29000002 6.5 4.48041631 7.06856965 5.08000004 7.07396861 4.59810004 7.43076294 4.77824689 8.00266934"></polygon>
+            <polygon id="Star-2-Copy-8" fill="#0073CF" mask="url(#mask-2)" points="4.28859667 5.15255967 3.80121712 5.5 3.98104396 4.92910954 3.5 4.57294902 4.09851864 4.56755964 4.28859667 4 4.4786747 4.56755964 5.07719334 4.57294902 4.59614938 4.92910954 4.77597621 5.5"></polygon>
+            <polygon id="Star-2" fill="#0073CF" mask="url(#mask-2)" points="7.99861864 6.40186431 7.5112391 6.74930465 7.69106593 6.17841419 7.21002197 5.82225367 7.80854061 5.81686429 7.99861864 5.24930465 8.18869667 5.81686429 8.78721531 5.82225367 8.30617135 6.17841419 8.48599819 6.74930465"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

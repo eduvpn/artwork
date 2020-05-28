@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TL</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="TL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Timor-Leste">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#DC241F" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-99" fill="#FFC726" mask="url(#mask-2)" points="1.137e-13 0 10 6 1.137e-13 12"></polygon>
+            <polygon id="Rectangle-119-Copy-100" fill="#000000" mask="url(#mask-2)" points="1.137e-13 0 6 6 1.137e-13 12"></polygon>
+            <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(2.050758, 6.000000) rotate(-26.000000) translate(-2.050758, -6.000000) " points="2.05075801 6.80511933 1.07599892 7.5 1.43565258 6.35821908 0.473564673 5.64589803 1.67060195 5.63511929 2.05075801 4.5 2.43091407 5.63511929 3.62795135 5.64589803 2.66586343 6.35821908 3.0255171 7.5"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

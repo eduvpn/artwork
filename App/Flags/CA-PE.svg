@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA-PE</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="12" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="CA-PE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prince-Edward-Island">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-81" fill="#D54040" mask="url(#mask-2)" x="0" y="1" width="16" height="3"></rect>
+            <path d="M9.58232098,1.05107258 L15.1212553,1.78632935 L14.2252338,2.47507258 L15.3708835,2.86256418 L13.8389193,3.89680545 L13.6478108,3.30795695 L12.9862681,3.08465058 L12.9972338,3.01607258 L10.6762338,3.06907258 L10.6771334,4 L8.29251803,4 L8.29223376,3.12307258 L4.51623376,3.20807258 L4.51652644,3.65037292 L0.95905294,4 L0.766307636,3.17148496 L3.51652644,2.82769199 L3.51652644,2.64809231 L0.538233756,2.42828201 L0.648665282,1.43439828 L4.51652644,1.75304952 L4.51623376,2.11207258 L4.72992099,1.40305082 L5.68774728,1.6903987 L5.53932662,2.18513422 L9.79999319,2.08873905 L9.45073191,2.04237693 L9.58232098,1.05107258 Z" id="lion" fill="#EDAA0C" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <g id="Rectangle-95" stroke-dasharray="3,2" mask="url(#mask-2)" stroke="#D54040" stroke-width="2">
+                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+            <rect id="Rectangle-96" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="4" width="1" height="8"></rect>
+            <ellipse id="Oval-77" fill="#44ABA2" mask="url(#mask-2)" cx="8" cy="9" rx="5" ry="1"></ellipse>
+            <rect id="Rectangle-98" fill="#A4604C" mask="url(#mask-2)" x="4" y="6" width="3" height="3"></rect>
+            <rect id="Rectangle-98-Copy" fill="#A4604C" mask="url(#mask-2)" x="10" y="6" width="1" height="3"></rect>
+            <ellipse id="Oval-77-Copy" fill="#44ABA2" mask="url(#mask-2)" cx="5.5" cy="6" rx="2.5" ry="1"></ellipse>
+            <ellipse id="Oval-77-Copy-2" fill="#44ABA2" mask="url(#mask-2)" cx="10.5" cy="6" rx="1.5" ry="1"></ellipse>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AO</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <path d="M8.43891658,2.00053307 C10.3716188,1.96679762 11.9657315,3.50621436 11.9994669,5.43891658 C12.0332024,7.3716188 10.4937856,8.96573149 8.56108342,8.99946693 C6.6283812,9.03320238 5.03426851,7.49378564 5.00053307,5.56108342 C4.96679762,3.6283812 6.50621436,2.03426851 8.43891658,2.00053307 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.00002195" height="7.00002195" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="AO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Angola">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#000000" mask="url(#mask-2)" x="0" y="6" width="16" height="6"></rect>
+            <rect id="Rectangle-119-Copy-32" fill="#D8241B" mask="url(#mask-2)" x="0" y="0" width="16" height="6"></rect>
+            <polygon id="Star-2" fill="#F7D418" mask="url(#mask-2)" points="8.5 5.25 7.61832212 5.71352549 7.78670761 4.73176275 7.07341523 4.03647451 8.05916106 3.89323725 8.5 3 8.94083894 3.89323725 9.92658477 4.03647451 9.21329239 4.73176275 9.38167788 5.71352549"></polygon>
+            <g id="Oval" stroke-dasharray="13,20" mask="url(#mask-2)" stroke="#F7D418" stroke-width="2">
+                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+            <rect id="Rectangle-2" fill="#F7D418" mask="url(#mask-2)" transform="translate(9.400437, 7.716179) rotate(31.000000) translate(-9.400437, -7.716179) " x="6.90043729" y="7.21617884" width="5" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

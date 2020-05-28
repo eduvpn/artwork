@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SS</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="SS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-Sudan">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#078930" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-55" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <g id="Group-3" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 4.000000)">
+                    <rect id="Rectangle-3" fill="#DA121A" x="0" y="0.666666667" width="16" height="2.66666667"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#FFFFFF" x="0" y="0" width="16" height="1"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#FFFFFF" x="0" y="3.33333333" width="16" height="1"></rect>
+                </g>
+            </g>
+            <polygon id="Path-2" fill="#0F47AF" mask="url(#mask-2)" points="0 0 6.88000011 6 0 12"></polygon>
+            <polygon id="Star-2" fill="#FCDD09" mask="url(#mask-2)" points="2.62077501 6.57648323 1.97647457 7.44669992 1.9667251 6.36396954 0.940000057 6.02011515 1.9667251 5.67626076 1.97647457 4.59353037 2.62077501 5.46374706 3.65352555 5.13843727 3.02500008 6.02011515 3.65352555 6.90179303"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

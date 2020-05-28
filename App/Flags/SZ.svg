@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <path d="M5,0.5 C7.76142375,0.5 9.36027644,3 10,3 C9.28335337,3 7.76142375,5.5 5,5.5 C2.23857625,5.5 0.716646635,3 0,3 C0.639723558,3 2.23857625,0.5 5,0.5 L5,0.5 Z" id="path-3"></path>
+    </defs>
+    <g id="SZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Swaziland">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#3E5EB9" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-75" fill="#FFD900" mask="url(#mask-2)" x="0" y="2.27999997" width="16" height="7.44000006"></rect>
+            <rect id="Rectangle-119-Copy-76" fill="#B10C0C" mask="url(#mask-2)" x="0" y="3" width="16" height="6"></rect>
+            <polygon id="spear" fill="#FFD900" mask="url(#mask-2)" points="2 5.75 14 5.75 14 6.25 2 6.25"></polygon>
+            <polygon id="spear-copy" fill="#FFD900" mask="url(#mask-2)" points="3.5 4.75 12.5 4.75 12.5 5.25 3.5 5.25"></polygon>
+            <polygon id="spear-copy-2" fill="#FFD900" mask="url(#mask-2)" points="4.5 3.75 13.5 3.75 13.5 4.25 4.5 4.25"></polygon>
+            <g id="shield" mask="url(#mask-2)">
+                <g transform="translate(3.000000, 3.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Combined-Shape" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path d="M5.13401442,0.244290865 C4.82632212,0.62890625 4.90324519,1.32121394 4.82632212,1.51352163 C4.74939904,1.70582933 4.82632212,1.93659856 4.98016827,2.09044471 C5.13401442,2.24429087 5.51862981,1.70582933 5.51862981,2.51352163 C5.51862981,3.32121394 5.15738731,3.09044471 5.15738731,3.32121394 C5.15738731,3.55198317 5.48016827,3.82121394 4.98016827,3.82121394 C4.64683494,3.82121394 4.42888622,3.93659856 4.32632212,4.16736779 C4.32632212,4.24429087 4.32632212,4.32121394 4.32632212,4.39813702 C4.32632212,4.51352163 5.05709135,4.55198317 5.13401442,4.70582933 C5.18529647,4.80839343 4.89459374,4.93863613 4.26190623,5.09655743 C5.18135452,5.02907756 5.52569405,5.20046583 5.29492482,5.61072224 C4.94877098,6.22610685 5.01862981,5.66736779 4.32632212,5.70582933 C3.86478365,5.73147035 3.00580929,5.64172676 1.74939904,5.43659856 L-0.596754808,4.70582933 C-0.596754808,2.96223958 -0.596754808,2.09044471 -0.596754808,2.09044471 C-0.596754808,2.09044471 0.185296474,1.5776242 1.74939904,0.551983173 C4.2109375,0.0904447115 5.33914263,-0.012119391 5.13401442,0.244290865 Z" id="Path-5" stroke="none" fill="#000000" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    <path d="M4,3.25 L4,3.75 L2,3.75 L2,3.25 L4,3.25 Z M4,2.25 L4,2.75 L2,2.75 L2,2.25 L4,2.25 Z" id="Combined-Shape" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    <path d="M8,3.25 L8,3.75 L6,3.75 L6,3.25 L8,3.25 Z M8,2.25 L8,2.75 L6,2.75 L6,2.25 L8,2.25 Z" id="Combined-Shape-Copy-2" stroke="none" fill="#000000" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+            <circle id="Oval-26" fill="#3D5DA7" mask="url(#mask-2)" cx="2.5" cy="6.5" r="1"></circle>
+            <circle id="Oval-26-Copy" fill="#3D5DA7" mask="url(#mask-2)" cx="7.1122449" cy="4.05102041" r="1"></circle>
+            <circle id="Oval-26-Copy-2" fill="#3D5DA7" mask="url(#mask-2)" cx="13.255102" cy="6.5" r="1"></circle>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

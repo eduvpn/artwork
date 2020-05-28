@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GE-AB</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <polygon id="path-3" points="0 0 8 0 8 4.76313687 0 4.76313687"></polygon>
+        <path d="M0.723391823,6.29430575 C-0.543718252,4.48468502 -0.103926473,1.9905019 1.70569425,0.723391823 C3.51531498,-0.543718252 6.0094981,-0.103926473 7.27660818,1.70569425 C8.54371825,3.51531498 8.10392647,6.0094981 6.29430575,7.27660818 C4.48468502,8.54371825 1.9905019,8.10392647 0.723391823,6.29430575 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.00068593" height="8.00068593" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="GE-AB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Abkhazia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <polygon id="Rectangle-77" fill="#E34F4F" mask="url(#mask-2)" points="0 0 8 0 8 5.13333337 0 5.13333337"></polygon>
+            <rect id="Rectangle-228" fill="#00993E" mask="url(#mask-2)" x="8" y="0" width="8" height="1.70000005"></rect>
+            <rect id="Rectangle-229" fill="#00993E" mask="url(#mask-2)" x="8" y="3.43333332" width="8" height="1.70000005"></rect>
+            <rect id="Rectangle-230" fill="#00993E" mask="url(#mask-2)" x="0" y="10.3" width="16" height="1.70000005"></rect>
+            <rect id="Rectangle-230-Copy" fill="#00993E" mask="url(#mask-2)" x="0" y="6.86666663" width="16" height="1.70000005"></rect>
+            <g id="Group-22" mask="url(#mask-2)">
+                <g id="Oval-75">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask" transform="translate(4.000000, 2.381568) scale(1, -1) translate(-4.000000, -2.381568) "></g>
+                    <g stroke-dasharray="1,1,1,1" mask="url(#mask-4)" stroke="#FFFFFF" stroke-width="2">
+                        <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <polygon id="Rectangle-231" fill="#FFFFFF" points="3 2 5 2 5 4 3 4"></polygon>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

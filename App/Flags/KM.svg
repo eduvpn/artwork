@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="KM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Comoros">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#3A75C4" mask="url(#mask-2)" x="0" y="9" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-42" fill="#CE1126" mask="url(#mask-2)" x="0" y="6" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-43" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="3" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-44" fill="#FFC61E" mask="url(#mask-2)" x="0" y="0" width="16" height="3"></rect>
+            <polygon id="Path-2" fill="#3D8E33" mask="url(#mask-2)" points="0 0 8 6 0 12"></polygon>
+            <path d="M3,4 C3.11375732,4 3.2252964,4.00949739 3.33386758,4.02774252 C2.38715751,4.18665529 1.66666667,5.00918782 1.66666667,6 C1.66666667,6.99081218 2.38715751,7.81334471 3.33279909,7.97225748 C3.2252964,7.99050261 3.11375732,8 3,8 C1.8954305,8 1,7.1045695 1,6 C1,4.8954305 1.8954305,4 3,4 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <path d="M3,4.25 L3,5.75 L3.5,5.75 L3.5,4.25 L3,4.25 Z M3,6.25 L3,7.75 L3.5,7.75 L3.5,6.25 L3,6.25 Z" id="Line" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

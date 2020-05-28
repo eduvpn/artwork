@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BQ-SE</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="BQ-SE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sint-Eustatius">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#2875C6" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-28" stroke="#DC171D" mask="url(#mask-2)" x="0.5" y="0.5" width="15" height="11"></rect>
+            <rect id="Rectangle-119-Copy-29" fill="#DC171D" mask="url(#mask-2)" x="0" y="5" width="16" height="2"></rect>
+            <rect id="Rectangle-119-Copy-30" fill="#DC171D" mask="url(#mask-2)" x="7" y="1" width="2" height="10"></rect>
+            <path d="M8,3.55901699 L3.11803399,6 L8,8.44098301 L12.881966,6 L8,3.55901699 Z" id="Rectangle-603" stroke="#DC171D" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-604" fill="#008830" mask="url(#mask-2)" x="8" y="5.5" width="2" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

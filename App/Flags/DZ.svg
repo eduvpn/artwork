@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="DZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Algeria">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="8" y="0" width="8" height="12"></rect>
+            <rect id="Rectangle-119-Copy-31" fill="#006233" mask="url(#mask-2)" x="0" y="0" width="8" height="12"></rect>
+            <path d="M7,2 C8.39538296,2 9.62388535,2.71450064 10.3396078,3.79760258 C9.74554085,3.15319806 8.8948625,2.75 7.95001221,2.75 C6.15508677,2.75 4.70001221,4.20507456 4.70001221,6 C4.70001221,7.79492544 6.15508677,9.25 7.95001221,9.25 C8.8948625,9.25 9.74554085,8.84680194 10.3393756,8.20307743 C9.62388535,9.28549936 8.39538296,10 7,10 C4.790861,10 3,8.209139 3,6 C3,3.790861 4.790861,2 7,2 Z" id="Combined-Shape" fill="#D21034" mask="url(#mask-2)"></path>
+            <polygon id="Star" fill="#D21034" mask="url(#mask-2)" transform="translate(9.563426, 6.000000) rotate(20.000000) translate(-9.563426, -6.000000) " points="9.56342553 6.71999997 8.38785502 7.61803399 8.87866487 6.22249223 7.6613125 5.38196601 9.14022016 5.41750779 9.56342553 4 9.98663089 5.41750779 11.4655386 5.38196601 10.2481862 6.22249223 10.738996 7.61803399"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

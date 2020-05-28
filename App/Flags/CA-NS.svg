@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA-NS</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="CA-NS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nova-Scotia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M1,2.77555756e-17 L8,5.133 L15,2.77555756e-17 L16,4.78121001e-08 L16,1 L9.181,6 L16,11 L16,12 L15,12 L8,6.866 L1,12 L0,12 L0,11 L6.819,6 L0,1 L0,4.78121001e-08 L1,2.77555756e-17 Z" id="Rectangle-114" fill="#0047B6" mask="url(#mask-2)"></path>
+            <g id="Group-26" mask="url(#mask-2)">
+                <g transform="translate(6.000000, 3.000000)">
+                    <path d="M4.5,-0.5 L-0.5,-0.5 L-0.5,4.20710678 L2,6.70710678 L4.5,4.20710678 L4.5,-0.5 Z" id="Rectangle-119-Copy-7" stroke="#D21034" stroke-width="1" fill="#FDD44F" fill-rule="evenodd"></path>
+                    <polygon id="Combined-Shape" stroke="none" fill="#D21034" fill-rule="nonzero" points="1.25311053 3.33786434 0.861103075 3.40411912 0.694452481 2.4181031 1.57656218 2.26901414 0.404630061 0.955029646 1.1509255 0.289414799 1.99740047 1.2384928 2.22749563 0.361939825 3.19472659 0.615837953 2.75967958 2.27315993 3.45267517 4.37689655 2.50288039 4.68977012 2.20966715 3.79965852 1.39506393 4.60090759 0.693824956 3.8879813"></polygon>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

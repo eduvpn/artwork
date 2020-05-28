@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CU</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="CU" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cuba">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-77" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-152" fill="#002A8F" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-153" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="8" width="16" height="2"></rect>
+            <rect id="Rectangle-153-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="2" width="16" height="2"></rect>
+            <polygon id="Rectangle-439" fill="#CF142B" mask="url(#mask-2)" points="0 0 9 6 0 12"></polygon>
+            <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-2)" points="3 6.92306502 1.76393202 7.80422607 2.21999997 6.35636182 1 5.45308506 2.51793347 5.43941679 3 4 3.48206653 5.43941679 5 5.45308506 3.78000003 6.35636182 4.23606798 7.80422607"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

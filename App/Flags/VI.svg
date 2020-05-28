@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>VI</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <polygon id="path-3" points="0 0 5 0 5 4 2.5 6 0 4"></polygon>
+    </defs>
+    <g id="VI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Triangle" fill="#0081C6" mask="url(#mask-2)" transform="translate(3.000000, 6.000000) scale(1, -1) translate(-3.000000, -6.000000) " points="3 4 4 8 2 8"></polygon>
+            <rect id="Rectangle" fill="#0081C6" mask="url(#mask-2)" x="13" y="4" width="1" height="4"></rect>
+            <rect id="Rectangle-Copy" fill="#369443" mask="url(#mask-2)" transform="translate(4.982877, 7.580549) rotate(-20.000000) translate(-4.982877, -7.580549) " x="4.48287653" y="6.080549" width="1" height="3"></rect>
+            <rect id="Rectangle-Copy-2" fill="#0081C6" mask="url(#mask-2)" transform="translate(11.500000, 7.500000) rotate(20.000000) translate(-11.500000, -7.500000) " x="11" y="6" width="1" height="3"></rect>
+            <g id="bird" mask="url(#mask-2)" fill="#F4C53D">
+                <g transform="translate(1.000000, 1.000000)">
+                    <rect id="Rectangle-Copy-3" transform="translate(5.500000, 6.500000) rotate(-130.000000) translate(-5.500000, -6.500000) " x="5" y="5" width="1" height="3"></rect>
+                    <rect id="Rectangle-Copy-4" transform="translate(8.500000, 6.500000) rotate(130.000000) translate(-8.500000, -6.500000) " x="8" y="5" width="1" height="3"></rect>
+                    <path d="M4.83490846,4.50402472 C4.27190031,4.65027826 3.87609263,4.65027826 3.64748542,4.50402472 C3.5713,4.4552844 3.31866799,3.82978416 2.88958937,2.62752401 L0.225604279,0 L3.88628536,1 L4.11990925,2.36142728 L4.83490846,2.80435297 L4.83490846,4.50402472 Z" id="Path-28"></path>
+                    <path d="M13.7693078,4.50402472 C13.2062997,4.65027826 12.810492,4.65027826 12.5818848,4.50402472 C12.5056994,4.4552844 12.2530674,3.82978416 11.8239888,2.62752401 L9.16000366,0 L12.7436718,1 L13.0543086,2.36142728 L13.7693078,2.80435297 L13.7693078,4.50402472 Z" id="Path-28-Copy" transform="translate(11.464656, 2.306857) scale(-1, 1) translate(-11.464656, -2.306857) "></path>
+                    <polygon id="Combined-Shape" points="5.5 1 6 0 7 0 8 1 8 2 6.5 2"></polygon>
+                    <rect id="Rectangle-118" transform="translate(7.000000, 8.500000) rotate(45.000000) translate(-7.000000, -8.500000) " x="5.5" y="7" width="3" height="3"></rect>
+                </g>
+            </g>
+            <g id="crest" mask="url(#mask-2)">
+                <g transform="translate(5.500000, 3.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Rectangle-119-Copy-7" stroke="none" fill="#0738AC" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-2" stroke="none" fill="#A60032" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="1" width="1" height="5"></rect>
+                    <rect id="Rectangle-2-Copy" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="1" y="1" width="1" height="5"></rect>
+                    <rect id="Rectangle-2-Copy-2" stroke="none" fill="#A60032" fill-rule="evenodd" mask="url(#mask-4)" x="4" y="1" width="1" height="5"></rect>
+                    <rect id="Rectangle-2-Copy-4" stroke="none" fill="#A60032" fill-rule="evenodd" mask="url(#mask-4)" x="2" y="1" width="1" height="5"></rect>
+                    <rect id="Rectangle-2-Copy-3" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="3" y="1" width="1" height="5"></rect>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

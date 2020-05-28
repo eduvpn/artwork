@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KP</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="KP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Korea,-Democratic-People's-Republic-of">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#024FA2" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-31" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="2" width="16" height="1"></rect>
+            <rect id="Rectangle-31-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="9" width="16" height="1"></rect>
+            <rect id="Rectangle-32" fill="#ED1C27" mask="url(#mask-2)" x="-1.42e-14" y="3" width="16" height="6"></rect>
+            <circle id="Oval-38" fill="#FFFFFF" mask="url(#mask-2)" cx="5" cy="6" r="2"></circle>
+            <polygon id="Star-2" fill="#ED1C27" mask="url(#mask-2)" points="5 6.77691173 3.82573544 7.61401472 4.25899998 6.2385437 3.10000002 5.38043079 4.5420368 5.36744593 5 4 5.4579632 5.36744593 6.89999998 5.38043079 5.74100002 6.2385437 6.17426456 7.61401472"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EC</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1262A1" offset="0%"></stop>
+            <stop stop-color="#2898C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="EC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ecuador">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FFDD00" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-14" fill="#ED1C24" mask="url(#mask-2)" x="0" y="9" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-16" fill="#034EA2" mask="url(#mask-2)" x="0" y="6" width="16" height="3"></rect>
+            <circle id="Oval-69" stroke="#FFDD00" mask="url(#mask-2)" cx="8" cy="5" r="2.5"></circle>
+            <path d="M8,7 C6.8954305,7 6,6.1045695 6,5 C6,3.8954305 6.8954305,3 8,3 C9.1045695,3 10,3.8954305 10,5 C10,6.1045695 9.1045695,7 8,7 Z" id="Oval-69-Copy" fill="#ED1C24" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-154" fill="#FFDD00" mask="url(#mask-2)" x="5" y="3" width="6" height="2"></rect>
+            <circle id="Oval-69-Copy-2" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="8" cy="5" r="1"></circle>
+            <path d="M8,2.72839974 C7.63317497,2.2835686 7.07781288,2 6.45621979,2 C6.12752542,2 5.81735073,2.07929217 5.54378021,2.21979203 L6.00063043,3.10933566 C6.14001574,3.03775041 6.29433411,3 6.45621979,3 C7.00850454,3 7.45621979,3.44771525 7.45621979,4 L8.54378021,4 C8.54378021,3.44771525 8.99149546,3 9.54378021,3 C9.70566589,3 9.85998426,3.03775041 9.99936957,3.10933566 L10.4562198,2.21979203 C10.1826493,2.07929217 9.87247458,2 9.54378021,2 C8.92218712,2 8.36682503,2.2835686 8,2.72839974 Z" id="Combined-Shape" fill="#452C25" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

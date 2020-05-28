@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="SM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="San-Marino">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-388" fill="#5EB6E4" mask="url(#mask-2)" x="0" y="6" width="16" height="6"></rect>
+            <rect id="Rectangle-389" stroke="#D99F31" fill="#A0CFEB" mask="url(#mask-2)" x="6.5" y="4.5" width="3" height="3" rx="1"></rect>
+            <rect id="Rectangle-183" fill="#D99F31" mask="url(#mask-2)" x="7" y="3" width="2" height="1"></rect>
+            <path d="M4.90968342,4.35684953 C4.00219648,6.06358425 4.65011481,8.18282963 6.35684953,9.09031658 C8.06358425,9.99780352 10.1828296,9.34988519 11.0903166,7.64315047 C11.6424649,6.60471043 11.6319364,5.37839928 11.0916766,4.35876768 L10.2080517,4.82696323 C10.5945084,5.55632242 10.6020218,6.4314449 10.207369,7.17367891 C9.55916402,8.39277513 8.04541732,8.85557394 6.82632109,8.20736898 C5.60722487,7.55916402 5.14442606,6.04541732 5.79263102,4.82632109 L4.90968342,4.35684953 Z" id="Oval-8" fill="#658D5C" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

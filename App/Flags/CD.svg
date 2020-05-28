@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CD</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="CD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Congo,-Democratic-Republic-of-the">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#007FFF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Star-2" fill="#F7D418" mask="url(#mask-2)" points="2.58168052 3.61894522 1.40611001 4.45697918 1.8398564 3.07997845 0.679567483 2.2209112 2.123208 2.20791191 2.58168052 0.838945188 3.04015303 2.20791191 4.48379355 2.2209112 3.32350463 3.07997845 3.75725102 4.45697918"></polygon>
+            <polygon id="Path" fill="#F7D618" mask="url(#mask-2)" points="-7.30844536 11.7959213 17.6807025 -1.49104432 20.0280603 2.92369364 -4.96108755 16.2106592"></polygon>
+            <polygon id="Rectangle-7" fill="#CE1021" fill-rule="nonzero" mask="url(#mask-2)" points="-5.95602621 12.2093973 -4.54761152 14.8582401 18.6756411 2.51021761 17.2672264 -0.138625165"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

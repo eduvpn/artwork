@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BF</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="BF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Burkina-Faso">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#009E49" mask="url(#mask-2)" x="0" y="6" width="16" height="6"></rect>
+            <rect id="Rectangle-119-Copy-35" fill="#EF2B2D" mask="url(#mask-2)" x="0" y="0" width="16" height="6"></rect>
+            <polygon id="Star-2" fill="#F7D418" mask="url(#mask-2)" points="8 6.78000003 6.8244295 7.61803399 7.25817589 6.24103327 6.09788697 5.38196601 7.54152748 5.36896672 8 4 8.45847252 5.36896672 9.90211303 5.38196601 8.74182411 6.24103327 9.1755705 7.61803399"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ST</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="ST" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sao-Tome-and-Principe">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#12AD2B" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-73" fill="#FFCE00" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <polygon id="Path-2" fill="#D21034" mask="url(#mask-2)" points="0 0 4 6 0 12"></polygon>
+            <polygon id="Star-2" fill="#000000" mask="url(#mask-2)" points="7.5 6.69229876 6.57294902 7.35316955 6.91499998 6.26727137 6 5.58981379 7.1384501 5.57956259 7.5 4.5 7.8615499 5.57956259 9 5.58981379 8.08500002 6.26727137 8.42705098 7.35316955"></polygon>
+            <polygon id="Star-2-Copy" fill="#000000" mask="url(#mask-2)" points="12.5 6.69229876 11.572949 7.35316955 11.915 6.26727137 11 5.58981379 12.1384501 5.57956259 12.5 4.5 12.8615499 5.57956259 14 5.58981379 13.085 6.26727137 13.427051 7.35316955"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

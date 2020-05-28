@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ET</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="ET" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ethiopia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#DA121A" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-51" fill="#FCDD09" mask="url(#mask-2)" x="0" y="0" width="16" height="8"></rect>
+            <rect id="Rectangle-119-Copy-52" fill="#078930" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <circle id="Oval-15" fill="#0F47AF" mask="url(#mask-2)" cx="8" cy="6" r="4"></circle>
+            <path d="M8.02610062,2.50001629 L8.023,2.653 L8.806,5.061 L11.343,5.061 L11.4838999,5.01227467 L11.416,5.061 L11.5,5.06187835 L11.356,5.105 L9.304,6.595 L10.088,9.006 L10.179219,9.12677144 L10.111,9.076 L10.1370183,9.15741191 L10.051,9.033 L7.999,7.543 L5.948,9.033 L5.86293152,9.15739561 L5.888,9.076 L5.82074997,9.12672878 L5.911,9.006 L6.695,6.595 L4.643,5.104 L4.5,5.06182563 L4.583,5.061 L4.51613107,5.01223202 L4.656,5.061 L7.193,5.061 L7.976,2.653 L7.97394952,2.5 L8,2.581 L8.02610062,2.50001629 Z M8.892,6.894 L8.411,7.243 L9.16271251,7.78954686 L9.452,8.17 L9.17941012,7.77741533 L8.892,6.894 Z M7.107,6.894 L6.82058988,7.77741533 L6.547,8.17 L6.83728749,7.78954686 L7.588,7.244 L7.107,6.894 Z M7.264,6.41 L8,6.944 L8.735,6.41 L8.454,5.546 L7.545,5.546 L7.264,6.41 Z M10.343,5.41 L9.89162805,5.54617549 L8.963,5.546 L9.147,6.111 L9.89800597,5.56580472 L10.343,5.41 Z M5.654,5.409 L6.10199403,5.56580472 L6.852,6.111 L7.036,5.546 L6.10837195,5.54617549 L5.654,5.409 Z M8,3.703 L7.9896803,4.17932496 L7.702,5.061 L8.297,5.061 L8.0103197,4.17932496 L8,3.703 Z" id="Rectangle-13-Copy" fill="#FCDD09" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

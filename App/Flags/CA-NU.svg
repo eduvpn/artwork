@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA-NU</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="CA-NU" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nunavut">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <polygon id="Star-2" fill="#0164BB" mask="url(#mask-2)" transform="translate(13.000000, 2.902113) rotate(-36.000000) translate(-13.000000, -2.902113) " points="13 3.92306502 11.763932 4.80422607 12.22 3.35636182 11 2.45308506 12.5179335 2.43941679 13 1 13.4820665 2.43941679 15 2.45308506 13.78 3.35636182 14.236068 4.80422607"></polygon>
+            <rect id="Rectangle-119-Copy" fill="#FDD500" mask="url(#mask-2)" x="0" y="0" width="8" height="12"></rect>
+            <rect id="Rectangle-117" stroke="#000000" stroke-width="0.5" fill="#D51516" mask="url(#mask-2)" x="7" y="1" width="2" height="3" rx="1"></rect>
+            <rect id="Rectangle-117-Copy-2" stroke="#000000" stroke-width="0.5" fill="#D51516" mask="url(#mask-2)" x="7" y="6" width="2" height="2" rx="1"></rect>
+            <rect id="Rectangle-117-Copy-3" stroke="#000000" stroke-width="0.5" fill="#D51516" mask="url(#mask-2)" x="6.5" y="8" width="3" height="2" rx="1"></rect>
+            <rect id="Rectangle-117-Copy-4" stroke="#000000" stroke-width="0.5" fill="#D51516" mask="url(#mask-2)" x="6" y="10" width="4" height="2" rx="1"></rect>
+            <rect id="Rectangle-117-Copy" stroke="#000000" stroke-width="0.5" fill="#D51516" mask="url(#mask-2)" x="5" y="4" width="6" height="2" rx="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

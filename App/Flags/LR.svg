@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>LR</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12" rx="1"></rect>
+    </defs>
+    <g id="LR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Liberia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#C55D5D" xlink:href="#path-1"></use>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-3"></use>
+            <rect id="Rectangle-77" fill="#BF0A30" mask="url(#mask-4)" x="3" y="0" width="13" height="1"></rect>
+            <rect id="Rectangle-120" fill="#BF0A30" mask="url(#mask-4)" x="3" y="2" width="13" height="1"></rect>
+            <rect id="Rectangle-15" fill="#002868" mask="url(#mask-4)" x="0" y="0" width="5" height="5"></rect>
+            <polygon id="Star-2" fill="#FFFFFF" mask="url(#mask-4)" points="2.5 3.08500002 1.61832212 3.71352549 1.94363192 2.68077495 1.07341523 2.03647451 2.15614561 2.02672504 2.5 1 2.84385439 2.02672504 3.92658477 2.03647451 3.05636808 2.68077495 3.38167788 3.71352549"></polygon>
+            <rect id="Rectangle-121" fill="#BF0A30" mask="url(#mask-4)" x="5" y="4" width="11" height="1"></rect>
+            <rect id="Rectangle-122" fill="#BF0A30" mask="url(#mask-4)" x="-3" y="6" width="19" height="1"></rect>
+            <rect id="Rectangle-124" fill="#BF0A30" mask="url(#mask-4)" x="-3" y="10" width="19" height="1"></rect>
+            <rect id="Rectangle-123" fill="#BF0A30" mask="url(#mask-4)" x="-3" y="8" width="19" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-4)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

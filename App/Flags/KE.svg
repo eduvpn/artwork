@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KE</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="KE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kenya">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#006600" mask="url(#mask-2)" x="0" y="9" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-62" fill="#BB0000" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <rect id="Rectangle-119-Copy-63" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="3"></rect>
+            <g id="shield" mask="url(#mask-2)">
+                <g transform="translate(5.000000, 1.000000)">
+                    <polygon id="Rectangle-13" fill="#FFFFFF" transform="translate(3.000000, 4.383348) rotate(120.000000) translate(-3.000000, -4.383348) " points="-1.53755667 3.88334771 7.53755667 3.88334771 7.53755667 4.38334771 -1.53755667 4.38334771"></polygon>
+                    <polygon id="Rectangle-13-Copy-2" fill="#FFFFFF" transform="translate(3.000000, 4.383348) scale(-1, 1) rotate(120.000000) translate(-3.000000, -4.383348) " points="-1.53755667 3.88334771 7.53755667 3.88334771 7.53755667 4.38334771 -1.53755667 4.38334771"></polygon>
+                    <path d="M3,8.5 C3.34351509,8.5 4.5,6.93299662 4.5,5 C4.5,3.06700338 3.37639946,1.5 3,1.5 C2.62360054,1.5 1.5,3.06700338 1.5,5 C1.5,6.93299662 2.65648491,8.5 3,8.5 Z" id="Oval-17-Copy-3" fill="#FFFFFF"></path>
+                    <path d="M3,8.5 C3.34351509,8.5 4.5,6.93299662 4.5,5 C4.5,3.06700338 3.37639946,1.5 3,1.5 C2.62360054,1.5 1.5,3.06700338 1.5,5 C1.5,6.93299662 2.65648491,8.5 3,8.5 Z M3,5.5 C3.13807119,5.5 3.25,5.27614237 3.25,5 C3.25,4.72385763 3.13807119,4.5 3,4.5 C2.86192881,4.5 2.75,4.72385763 2.75,5 C2.75,5.27614237 2.86192881,5.5 3,5.5 Z M3,8.5 C3.13807119,8.5 3.25,7.82842712 3.25,7 C3.25,6.17157288 3.13807119,5.5 3,5.5 C2.86192881,5.5 2.75,6.17157288 2.75,7 C2.75,7.82842712 2.86192881,8.5 3,8.5 Z M3,4.5 C3.13807119,4.5 3.25,3.82842712 3.25,3 C3.25,2.17157288 3.13807119,1.5 3,1.5 C2.86192881,1.5 2.75,2.17157288 2.75,3 C2.75,3.82842712 2.86192881,4.5 3,4.5 Z" id="Combined-Shape" fill="#BB0000"></path>
+                    <path d="M1.88925337,3.00923137 C2.11344168,3.57439411 2.2779299,4.26040747 2.2779299,5 C2.2779299,5.72978741 2.1130869,6.40740689 1.88938526,6.96822719 C1.664843,6.40740689 1.5,5.72978741 1.5,5 C1.5,4.33088578 1.63463261,3.70562579 1.82630256,3.17403433 Z" id="Combined-Shape" fill="#000000"></path>
+                    <path d="M3.88925337,3.00923137 C4.11344168,3.57439411 4.2779299,4.26040747 4.2779299,5 C4.2779299,5.72978741 4.1130869,6.40740689 3.88938526,6.96822719 C3.664843,6.40740689 3.5,5.72978741 3.5,5 C3.5,4.33088578 3.63463261,3.70562579 3.82630256,3.17403433 Z" id="Combined-Shape-Copy" fill="#000000" transform="translate(4.000000, 4.988893) scale(-1, 1) translate(-4.000000, -4.988893) "></path>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

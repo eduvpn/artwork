@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA-YT</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <path d="M10.9344428,8.62373507 C10.5899634,10.2443831 8.99691294,11.2789222 7.37626493,10.9344428 C5.75561692,10.5899634 4.72107783,8.99691294 5.0655572,7.37626493 C5.41003657,5.75561692 7.00308706,4.72107783 8.62373507,5.0655572 C10.2443831,5.41003657 11.2789222,7.00308706 10.9344428,8.62373507 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.0012316" height="6.0012316" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M10.5715019,9.54511422 C9.71815888,10.9653155 7.87508706,11.4248449 6.45488578,10.5715019 C5.03468449,9.71815888 4.57515507,7.87508706 5.4284981,6.45488578 C6.28184112,5.03468449 8.12491294,4.57515507 9.54511422,5.4284981 C10.9653155,6.28184112 11.4248449,8.12491294 10.5715019,9.54511422 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.00090317" height="6.00090317" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="0 0 4 0 4 4 2 6 0 4"></polygon>
+    </defs>
+    <g id="CA-YT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Yukon">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Oval-80-Copy" stroke-dasharray="8,13" mask="url(#mask-2)" stroke="#D5105A" stroke-width="2">
+                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+            <g id="Oval-80" stroke-dasharray="6,13" mask="url(#mask-2)" stroke="#1E501F" stroke-width="2">
+                <use mask="url(#mask-6)" xlink:href="#path-5"></use>
+            </g>
+            <g id="Group-29" mask="url(#mask-2)">
+                <g transform="translate(6.000000, 3.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <path stroke="#000000" stroke-width="0.5" d="M4.25,-0.25 L-0.25,-0.25 L-0.25,4.10355339 L2,6.35355339 L4.25,4.10355339 L4.25,-0.25 Z"></path>
+                    <g id="England-Symbol" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                        <rect id="Rectangle-77" fill="#FFFFFF" x="0" y="0" width="4" height="1"></rect>
+                        <polygon id="Rectangle-112" fill="#CE1124" points="2.25 0.416666667 4 0.416666667 4 0.583333333 2.25 0.583333333 2.25 1 1.75 1 1.75 0.583333333 0 0.583333333 0 0.416666667 1.75 0.416666667 1.75 0 2.25 0"></polygon>
+                    </g>
+                    <polygon id="Path-27" stroke="none" fill="#D51810" fill-rule="evenodd" mask="url(#mask-8)" points="-0.5 5.80001129 0.709923233 1.5 1.74949198 6"></polygon>
+                    <polygon id="Path-27-Copy" stroke="none" fill="#D51810" fill-rule="evenodd" mask="url(#mask-8)" points="4.74949198 5.80001129 2.5 6 3.53956875 1.5"></polygon>
+                    <rect id="Rectangle-64-Copy-2" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-8)" x="1.5" y="1" width="1" height="5"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-116" fill="#CDCDCD" mask="url(#mask-2)" x="7" y="1.5" width="2" height="1"></rect>
+            <rect id="Rectangle-119-Copy" fill="#187B01" mask="url(#mask-2)" x="0" y="0" width="5" height="12"></rect>
+            <rect id="Rectangle-119-Copy-153" fill="#0738AC" mask="url(#mask-2)" x="11" y="0" width="5" height="12"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

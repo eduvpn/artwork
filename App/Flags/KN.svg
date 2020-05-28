@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KN</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="KN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saint-Kitts-and-Nevis">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#009E49" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-146" fill="#CE1126" mask="url(#mask-2)" points="16 0 16 12 0 12"></polygon>
+            <g id="band" mask="url(#mask-2)">
+                <g transform="translate(8.904508, 5.706107) rotate(-36.870000) translate(-8.904508, -5.706107) translate(-2.095492, 3.706107)">
+                    <rect id="Rectangle-169" stroke="#FCD116" stroke-width="1" fill="#000000" x="-0.49994236" y="-0.507591891" width="23" height="5"></rect>
+                    <polygon id="Star-2-Copy-7" stroke="none" fill="#FFFFFF" points="10.0000576 2.91547313 8.76398966 3.79663417 9.22005761 2.34876993 8.00005764 1.44549317 9.51799111 1.4318249 10.0000576 -0.0075918905 10.4821242 1.4318249 12.0000576 1.44549317 10.7800577 2.34876993 11.2361256 3.79663417"></polygon>
+                    <polygon id="Star-2-Copy-11" stroke="none" fill="#FFFFFF" points="15.0000576 2.91547313 13.7639897 3.79663417 14.2200576 2.34876993 13.0000576 1.44549317 14.5179911 1.4318249 15.0000576 -0.0075918905 15.4821242 1.4318249 17.0000576 1.44549317 15.7800577 2.34876993 16.2361256 3.79663417"></polygon>
+                    <polygon id="Star-2-Copy-10" stroke="none" fill="#FFFFFF" points="5.00005764 2.91547313 3.76398966 3.79663417 4.22005761 2.34876993 3.00005764 1.44549317 4.51799111 1.4318249 5.00005764 -0.0075918905 5.48212417 1.4318249 7.00005764 1.44549317 5.78005767 2.34876993 6.23612562 3.79663417"></polygon>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

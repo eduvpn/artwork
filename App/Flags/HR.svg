@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HR</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <polygon id="path-3" points="0 0 4 0 4 4 2 5 0 4"></polygon>
+    </defs>
+    <g id="HR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Croatia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-74" fill="#171796" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-77" fill="#FF0000" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <rect id="Rectangle-78" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(6.000000, 3.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <path stroke="#FF0000" stroke-width="1" d="M4.5,-0.5 L-0.5,-0.5 L-0.5,4.30901699 L2,5.55901699 L4.5,4.30901699 L4.5,-0.5 Z"></path>
+                    <rect id="Rectangle-159" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="1" height="1"></rect>
+                    <rect id="Rectangle-160" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="2" y="0" width="1" height="1"></rect>
+                    <rect id="Rectangle-161" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="1" y="1" width="1" height="1"></rect>
+                    <rect id="Rectangle-162" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="3" y="1" width="1" height="1"></rect>
+                    <rect id="Rectangle-163" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="2" y="2" width="1" height="1"></rect>
+                    <rect id="Rectangle-164" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="2" width="1" height="1"></rect>
+                    <rect id="Rectangle-165" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="1" y="3" width="1" height="1"></rect>
+                    <rect id="Rectangle-166" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="3" y="3" width="1" height="1"></rect>
+                    <rect id="Rectangle-167" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="4" width="1" height="1"></rect>
+                    <rect id="Rectangle-168" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="2" y="4" width="1" height="1"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-182" fill="#0093DD" mask="url(#mask-2)" x="5" y="2" width="6" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

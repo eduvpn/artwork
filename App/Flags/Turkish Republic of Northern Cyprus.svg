@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Turkish Republic of Northern Cyprus</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="Turkish-Republic-of-Northern-Cyprus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-77" fill="#E30A17" mask="url(#mask-2)" x="0" y="1" width="16" height="1"></rect>
+            <rect id="Rectangle-100" fill="#E30A17" mask="url(#mask-2)" x="0" y="10" width="16" height="1"></rect>
+            <g id="Group-21" mask="url(#mask-2)" fill="#E30A17">
+                <g transform="translate(3.000000, 2.000000)">
+                    <path d="M3.27272727,0.727272727 C4.08877359,0.727272727 4.83506115,1.02594547 5.40823905,1.51994005 C5.10861664,1.4043506 4.78393932,1.34090909 4.44444444,1.34090909 C2.97168511,1.34090909 1.77777778,2.53481642 1.77777778,4.00757576 C1.77777778,5.48033509 2.97168511,6.67424242 4.44444444,6.67424242 C4.77238681,6.67424242 5.08650289,6.6150451 5.37668983,6.50675331 C4.80827041,6.98467145 4.07413836,7.27272727 3.27272727,7.27272727 C1.46524991,7.27272727 0,5.80747736 0,4 C0,2.19252264 1.46524991,0.727272727 3.27272727,0.727272727 Z" id="Combined-Shape"></path>
+                    <polygon id="Star" points="6.79727906 4.5690577 6.14871267 5.52240375 6.17956785 4.33961067 5.09174218 3.96548502 6.18160198 3.66216466 6.15785512 2.47759625 6.80057034 3.47292705 7.87371965 3.11494915 7.1810797 4.03341777 7.86806931 4.99674368"></polygon>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

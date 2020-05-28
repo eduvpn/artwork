@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA-NT</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <polygon id="path-3" points="0 0 4 0 4 4 2 6 0 4"></polygon>
+    </defs>
+    <g id="CA-NT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Northwest-Territories">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#00549F" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="5" y="0" width="6" height="12"></rect>
+            <g id="Group-28" mask="url(#mask-2)">
+                <g transform="translate(6.000000, 3.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <path stroke="#000000" stroke-width="0.5" d="M4.25,-0.25 L-0.25,-0.25 L-0.25,4.10355339 L2,6.35355339 L4.25,4.10355339 L4.25,-0.25 Z"></path>
+                    <circle id="Oval-79" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" cx="3" cy="3" r="1"></circle>
+                    <polygon id="Path-26" stroke="none" fill="#008165" fill-rule="evenodd" mask="url(#mask-4)" points="0.718688965 2 3.46868896 4.984375 2.07806396 6.796875 -0.640686035 4.640625 -0.640686035 2"></polygon>
+                    <rect id="Rectangle-104" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="4" height="2"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-110" fill="#0056A3" mask="url(#mask-2)" x="6" y="3.75" width="4" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

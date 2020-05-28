@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>PK</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="24" height="18"></rect>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
     </defs>
-    <g id="Design-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="11-Flags" transform="translate(-148.000000, -409.000000)">
-            <g id="PK" transform="translate(148.000000, 409.000000)">
-                <g id="Pakistan">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
-                    <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="24" height="18"></rect>
-                    <polygon id="Rectangle-119-Copy-92" fill="#01411C" mask="url(#mask-2)" points="6 0 24 0 24 18 6 18"></polygon>
-                    <g id="Group-9" mask="url(#mask-2)" fill="#FFFFFF">
-                        <g transform="translate(14.912869, 8.851907) rotate(-41.000000) translate(-14.912869, -8.851907) translate(9.912869, 3.518574)">
-                            <polygon id="Star-2" points="7.5 6.15632415 6.10942353 7.14763033 6.62249997 5.51878306 5.25 4.5025967 6.95767515 4.4872199 7.5 2.86787601 8.04232485 4.4872199 9.75 4.5025967 8.37750003 5.51878306 8.89057647 7.14763033"></polygon>
-                            <path d="M5.25,0 C6.09157044,0 6.88689207,0.198014697 7.59191526,0.549994461 C7.27612852,0.484234452 6.94953295,0.449999928 6.61494148,0.449999928 C3.96397464,0.449999928 1.81494141,2.59903316 1.81494141,5.25 C1.81494141,7.90096684 3.96397464,10.0500001 6.61494148,10.0500001 C6.94953295,10.0500001 7.27612852,10.0157655 7.59141649,9.95060821 C6.88689207,10.3019853 6.09157044,10.5 5.25,10.5 C2.35050506,10.5 0,8.14949494 0,5.25 C0,2.35050506 2.35050506,0 5.25,0 Z" id="Combined-Shape"></path>
-                        </g>
-                    </g>
-                    <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
-                        <g>
-                            <rect stroke-width="2.25" style="mix-blend-mode: multiply;" x="1.125" y="1.125" width="21.75" height="15.75"></rect>
-                        </g>
-                    </g>
+    <g id="PK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pakistan">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-92" fill="#01411C" mask="url(#mask-2)" points="4 0 16 0 16 12 4 12"></polygon>
+            <g id="Group-9" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(10.031250, 5.750000) rotate(-41.000000) translate(-10.031250, -5.750000) translate(6.531250, 2.250000)">
+                    <polygon id="Star-2" points="5 4.1042161 4.07294902 4.76508689 4.41499998 3.67918871 3.5 3.00173113 4.6384501 2.99147993 5 1.91191734 5.3615499 2.99147993 6.5 3.00173113 5.58500002 3.67918871 5.92705098 4.76508689"></polygon>
+                    <path d="M3.5,0 C4.06052949,0 4.59028329,0.131766398 5.05997616,0.366013955 C4.84991329,0.322735102 4.63259218,0.299999952 4.40996099,0.299999952 C2.64264976,0.299999952 1.20996094,1.73268877 1.20996094,3.5 C1.20996094,5.26731123 2.64264976,6.70000005 4.40996099,6.70000005 C4.63259218,6.70000005 4.84991329,6.6772649 5.05972926,6.63398966 C4.59028329,6.8682336 4.06052949,7 3.5,7 C1.56700338,7 0,5.43299662 0,3.5 C0,1.56700338 1.56700338,0 3.5,0 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
                 </g>
             </g>
         </g>

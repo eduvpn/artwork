@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GS</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <polygon id="path-3" points="0 0 4 0 4 4 2 6 0 4"></polygon>
+        <polygon id="path-5" points="0.0117647059 0.988373162 2 7.00013787 3.98823529 0.988373162"></polygon>
+        <rect id="path-7" x="0" y="0" width="8" height="6"></rect>
+    </defs>
+    <g id="GS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="South-Georgia-and-the-South-Sandwich-Islands-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#00247D" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-7" fill="#2D9C4B" mask="url(#mask-2)" points="10 3 14 3 14 7 12 9 10 7"></polygon>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(10.000000, 3.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Rectangle-158" stroke="none" fill="#1E5AA6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <g id="Group-16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(1.596194, 2.500000) rotate(45.000000) translate(-1.596194, -2.500000) translate(-1.403806, -1.000000)" fill="#FFFFFF">
+                            <rect id="Rectangle-159" x="2" y="1" width="1" height="1"></rect>
+                            <rect id="Rectangle-159-Copy-2" x="0" y="1" width="1" height="1"></rect>
+                            <rect id="Rectangle-159-Copy" x="4" y="1" width="1" height="1"></rect>
+                            <rect id="Rectangle-159-Copy-3" x="3" y="0" width="1" height="1"></rect>
+                            <rect id="Rectangle-162" x="5" y="2" width="1" height="1"></rect>
+                            <rect id="Rectangle-162-Copy-3" x="5" y="0" width="1" height="1"></rect>
+                            <rect id="Rectangle-162-Copy" x="3" y="2" width="1" height="1"></rect>
+                            <rect id="Rectangle-162-Copy-2" x="1" y="2" width="1" height="1"></rect>
+                            <rect id="Rectangle-163" x="4" y="3" width="1" height="1"></rect>
+                            <rect id="Rectangle-164" x="2" y="3" width="1" height="1"></rect>
+                            <rect id="Rectangle-164-Copy" x="0" y="3" width="1" height="1"></rect>
+                            <rect id="Rectangle-165" x="3" y="4" width="1" height="1"></rect>
+                            <rect id="Rectangle-165-Copy" x="1" y="4" width="1" height="1"></rect>
+                            <rect id="Rectangle-166" x="5" y="4" width="1" height="1"></rect>
+                            <rect id="Rectangle-167" x="2" y="5" width="1" height="1"></rect>
+                            <rect id="Rectangle-168" x="4" y="5" width="1" height="1"></rect>
+                            <rect id="Rectangle-168-Copy" x="3" y="6" width="1" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-17" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(0.000000, -1.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Path-18" stroke="none" fill="#006B00" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <rect id="Rectangle-73" stroke="none" fill="#FFC900" fill-rule="evenodd" opacity="0.5" mask="url(#mask-6)" x="1" y="1" width="2" height="4"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-72" fill="#8A9396" mask="url(#mask-2)" x="9" y="3" width="1" height="5"></rect>
+            <rect id="Rectangle-72-Copy-2" fill="#923F00" mask="url(#mask-2)" x="11" y="1" width="2" height="1"></rect>
+            <rect id="Rectangle-72-Copy-3" fill="#656263" mask="url(#mask-2)" x="11" y="2" width="2" height="1"></rect>
+            <rect id="Rectangle-72-Copy" fill="#000000" mask="url(#mask-2)" x="14" y="3" width="1" height="5"></rect>
+            <path d="M13,9.99567921 C13,11.1002487 12.1045695,11.9956792 11,11.9956792 L11,10.9956792 C11.5522847,10.9956792 12,10.547964 12,9.99567921 C12,9.46823049 11.5898657,9.03205506 11.0672464,8.99786719 L11.1325233,8 C12.1753105,8.06821538 13,8.93563902 13,9.99567921 Z M13,9.99567921 C13,11.1002487 12.1045695,11.9956792 11,11.9956792 L11,10.9956792 C11.5522847,10.9956792 12,10.547964 12,9.99567921 C12,9.46823049 11.5898657,9.03205506 11.0672464,8.99786719 L11.1325233,8 C12.1753105,8.06821538 13,8.93563902 13,9.99567921 Z" id="Oval-63" fill="#FFBB00" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(12.000000, 9.997840) rotate(-90.000000) translate(-12.000000, -9.997840) "></path>
+            <g id="GB-Symbol" mask="url(#mask-2)">
+                <g id="UK">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <g id="St-Andrew" mask="url(#mask-8)">
+                        <g transform="translate(-1.000000, -1.000000)">
+                            <rect id="Rectangle-77" fill="#00247D" x="1" y="1" width="8" height="6"></rect>
+                            <polygon id="Rectangle-3" fill="#FFFFFF" transform="translate(4.925570, 3.865111) rotate(36.000000) translate(-4.925570, -3.865111) " points="-0.61786254 3.11511086 10.4690033 3.11511086 10.4690033 4.61511086 -0.61786254 4.61511086"></polygon>
+                            <polygon id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(4.925570, 3.865111) scale(-1, 1) rotate(36.000000) translate(-4.925570, -3.865111) " points="-0.61786254 3.11511086 10.4690033 3.11511086 10.4690033 4.61511086 -0.61786254 4.61511086"></polygon>
+                        </g>
+                    </g>
+                    <g id="St-Patrick" mask="url(#mask-8)">
+                        <g transform="translate(-1.000000, -3.000000)">
+                            <g id="Group-2" transform="translate(0.500000, 2.500000)">
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(2.216811, 2.056099) rotate(36.000000) translate(-2.216811, -2.056099) " points="-0.341682342 1.80609861 4.77530337 1.80609861 4.77530337 2.30609861 -0.341682342 2.30609861"></polygon>
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(6.716811, 4.856099) rotate(36.000000) translate(-6.716811, -4.856099) " points="4.15831766 4.60609871 9.27530337 4.60609871 9.27530337 5.10609871 4.15831766 5.10609871"></polygon>
+                            </g>
+                            <g id="Group-2-Copy" transform="translate(5.077254, 5.762236) rotate(-72.000000) translate(-5.077254, -5.762236) translate(0.327254, 2.262236)">
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(6.895677, 4.831826) rotate(36.000000) translate(-6.895677, -4.831826) " points="4.1210618 4.58182621 9.67029292 4.58182621 9.67029292 5.08182621 4.1210618 5.08182621"></polygon>
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(2.516875, 2.108602) rotate(36.000000) translate(-2.516875, -2.108602) " points="-0.0416182034 1.85860187 5.07536751 1.85860187 5.07536751 2.35860187 -0.0416182034 2.35860187"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="St-George" mask="url(#mask-8)">
+                        <path d="M5,0 L5,2 L8,2 L8,4 L5,4 L5,6 L3,6 L3,4 L0,4 L0,2 L3,2 L3,0 L5,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <polygon id="Rectangle-112" fill="#CF142B" points="8 2.5 8 3.5 4.5 3.5 4.5 6 3.5 6 3.5 3.5 0 3.5 0 2.5 3.5 2.5 3.5 0 4.5 0 4.5 2.5"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

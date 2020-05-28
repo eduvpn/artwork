@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GR</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="GR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Greece">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-77" fill="#0D5EAF" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="Group" mask="url(#mask-2)" fill="#FFFFFF">
+                <polygon id="Combined-Shape" points="3.9 2.6 3.9 0 2.6 0 2.6 2.6 0 2.6 0 3.9 2.6 3.9 2.6 6.5 3.9 6.5 3.9 3.9 6.5 3.9 6.5 2.6"></polygon>
+                <polygon id="Rectangle-128" points="6.5 1.29998779 16 1.29998779 16 2.59998775 6.5 2.59998775"></polygon>
+                <polygon id="Rectangle-129" points="6.5 3.90002441 16 3.90002441 16 5.20002437 6.5 5.20002437"></polygon>
+                <rect id="Rectangle-130" x="0" y="6.5" width="16" height="1.29999995"></rect>
+                <rect id="Rectangle-131" x="0" y="9.40002441" width="16" height="1.29999995"></rect>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

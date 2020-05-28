@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KH</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="KH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cambodia">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#032EA1" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-27" fill="#E00025" mask="url(#mask-2)" x="0" y="3" width="16" height="6"></rect>
+            <path d="M5,5 L12,5 L13,8 L4,8 L5,5 Z M5,4 L6,4 L6,5 L5,5 L5,4 Z M11,4 L12,4 L12,5 L11,5 L11,4 Z M8,3 L9,3 L9,5 L8,5 L8,3 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.800000012" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

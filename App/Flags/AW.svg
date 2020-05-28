@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AW</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="AW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aruba">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-77" fill="#4189DD" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-424" fill="#F9D616" mask="url(#mask-2)" x="0" y="7" width="16" height="1"></rect>
+            <g id="star" mask="url(#mask-2)" fill="#D21034" stroke="#FFFFFF" stroke-width="0.5">
+                <g transform="translate(2.000000, 2.000000)" id="Combined-Shape">
+                    <path d="M1.5,-0.790569415 L0.927357646,0.927357646 L-0.790569415,1.5 L0.927357646,2.07264235 L1.5,3.79056942 L2.07264235,2.07264235 L3.79056942,1.5 L2.07264235,0.927357646 L1.5,-0.790569415 Z"></path>
+                </g>
+            </g>
+            <rect id="Rectangle-425" fill="#F9D616" mask="url(#mask-2)" x="0" y="9" width="16" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MR</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="MR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mauritania">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#006233" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <path d="M9.42857143,3.57142857 C9.62353671,3.57142857 9.81470115,3.58770193 10.0007805,3.61896444 C8.37856308,3.89074841 7.14285714,5.30106691 7.14285714,7 C7.14285714,8.69893309 8.37856308,10.1092516 10.0002235,10.3812041 C9.81470115,10.4122981 9.62353671,10.4285714 9.42857143,10.4285714 C7.53502371,10.4285714 6,8.89354771 6,7 C6,5.10645229 7.53502371,3.57142857 9.42857143,3.57142857 Z" id="Combined-Shape" fill="#FFC400" mask="url(#mask-2)" transform="translate(8.000000, 7.000000) rotate(-90.000000) translate(-8.000000, -7.000000) "></path>
+            <polygon id="Star-2" fill="#FFC400" mask="url(#mask-2)" points="8 5.08500002 7.11832212 5.71352549 7.44363192 4.68077495 6.57341523 4.03647451 7.65614561 4.02672504 8 3 8.34385439 4.02672504 9.42658477 4.03647451 8.55636808 4.68077495 8.88167788 5.71352549"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

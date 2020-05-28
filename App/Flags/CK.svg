@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CK</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="7.97826087" height="6"></rect>
+    </defs>
+    <g id="CK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cook-Islands-(NZ)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#00247D" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="GB-Symbol" mask="url(#mask-2)">
+                <g id="UK">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <g id="St-Andrew" mask="url(#mask-4)">
+                        <g transform="translate(-0.997283, -1.000000)">
+                            <rect id="Rectangle-77" fill="#00247D" x="0.997282609" y="1" width="7.97826087" height="6"></rect>
+                            <polygon id="Rectangle-3" fill="#FFFFFF" transform="translate(4.912186, 3.865111) rotate(36.000000) translate(-4.912186, -3.865111) " points="-0.622357085 3.10865178 10.4447901 3.12297819 10.4467284 4.62156994 -0.620418791 4.60724353"></polygon>
+                            <polygon id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(4.912186, 3.865111) scale(-1, 1) rotate(36.000000) translate(-4.912186, -3.865111) " points="-0.622357085 3.10865178 10.4447901 3.12297819 10.4467284 4.62156994 -0.620418791 4.60724353"></polygon>
+                        </g>
+                    </g>
+                    <g id="St-Patrick" mask="url(#mask-4)">
+                        <g transform="translate(-0.997283, -3.000000)">
+                            <g id="Group-2" transform="translate(0.498641, 2.500000)">
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(2.210787, 2.056099) rotate(36.000000) translate(-2.210787, -2.056099) " points="-0.343478911 1.80302724 4.76440595 1.80963939 4.76505205 2.30916998 -0.342832813 2.30255783"></polygon>
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(6.698558, 4.856099) rotate(36.000000) translate(-6.698558, -4.856099) " points="4.14429283 4.60302735 9.25217769 4.6096395 9.25282379 5.10917008 4.14493893 5.10255793"></polygon>
+                            </g>
+                            <g id="Group-2-Copy" transform="translate(5.063457, 5.762236) rotate(-72.000000) translate(-5.063457, -5.762236) translate(0.326365, 2.262236)">
+                                <polygon id="Rectangle-2-Copy" fill="#CF142B" transform="translate(6.876939, 4.831826) rotate(36.000000) translate(-6.876939, -4.831826) " points="4.1069353 4.57847557 9.64629681 4.58564627 9.64694291 5.08517685 4.1075814 5.07800615"></polygon>
+                                <polygon id="Rectangle-2" fill="#CF142B" transform="translate(2.510035, 2.108602) rotate(36.000000) translate(-2.510035, -2.108602) " points="-0.0442301637 1.8555305 5.0636547 1.86214265 5.0643008 2.36167323 -0.0435840655 2.35506108"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="St-George" mask="url(#mask-4)">
+                        <path d="M4.98641304,0 L4.986,2 L7.97826087,2 L7.97826087,4 L4.986,4 L4.98641304,6 L2.99184783,6 L2.991,4 L0,4 L0,2 L2.991,2 L2.99184783,0 L4.98641304,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <polygon id="Rectangle-112" fill="#CF142B" points="7.97826087 2.5 7.97826087 3.5 4.48777174 3.5 4.48777174 6 3.49048913 6 3.49048913 3.5 0 3.5 0 2.5 3.49048913 2.5 3.49048913 0 4.48777174 0 4.48777174 2.5"></polygon>
+                    </g>
+                </g>
+            </g>
+            <circle id="Oval-53" stroke="#FFFFFF" opacity="0.800000012" mask="url(#mask-2)" cx="12" cy="6" r="2.5"></circle>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

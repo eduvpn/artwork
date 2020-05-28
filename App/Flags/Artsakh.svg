@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artsakh</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="Artsakh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artsakh-(Azerbaijan)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-74" fill="#F2A800" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-78" fill="#D90012" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <rect id="Rectangle-88" fill="#0033A0" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <g id="Group-25" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(8.000000, 5.000000)">
+                    <rect id="Rectangle-97" x="1.5" y="1.66999996" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-97-Copy" x="0.199951172" y="0.340026855" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93" x="5.4000001" y="5.66999996" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93-Copy" x="4.09997559" y="4.33499998" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93-Copy-2" x="2.80004883" y="3" width="2.5999999" height="1.33000004"></rect>
+                </g>
+            </g>
+            <g id="Group-25-Copy" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(12.500000, 3.000000) scale(1, -1) translate(-12.500000, -3.000000) translate(9.000000, 0.000000)">
+                    <rect id="Rectangle-97" x="0.5" y="0.669999957" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93" x="4.4000001" y="4.66999996" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93-Copy" x="3.09997559" y="3.33499998" width="2.5999999" height="1.33000004"></rect>
+                    <rect id="Rectangle-93-Copy-2" x="1.80004883" y="2" width="2.5999999" height="1.33000004"></rect>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

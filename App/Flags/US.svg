@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>US</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="US" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="United-States-of-America">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119" fill="#B22234" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="stars" mask="url(#mask-2)">
+                <rect id="Rectangle-74" fill="#3C3B6E" x="0" y="0" width="7" height="7"></rect>
+                <rect id="Rectangle-125" fill="#FFFFFF" x="1" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-134" fill="#FFFFFF" x="3" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-138" fill="#FFFFFF" x="5" y="1" width="1" height="1"></rect>
+                <rect id="Rectangle-139" fill="#FFFFFF" x="5" y="3" width="1" height="1"></rect>
+                <rect id="Rectangle-140" fill="#FFFFFF" x="3" y="3" width="1" height="1"></rect>
+                <rect id="Rectangle-135" fill="#FFFFFF" x="1" y="3" width="1" height="1"></rect>
+                <rect id="Rectangle-136" fill="#FFFFFF" x="5" y="5" width="1" height="1"></rect>
+                <rect id="Rectangle-141" fill="#FFFFFF" x="3" y="5" width="1" height="1"></rect>
+                <rect id="Rectangle-137" fill="#FFFFFF" x="1" y="5" width="1" height="1"></rect>
+            </g>
+            <g id="stripes" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(-3.000000, 1.000000)">
+                    <rect id="Rectangle-77" x="10" y="0" width="9" height="1"></rect>
+                    <rect id="Rectangle-120" x="10" y="2" width="9" height="1"></rect>
+                    <rect id="Rectangle-121" x="10" y="4" width="9" height="1"></rect>
+                    <rect id="Rectangle-122" x="0" y="6" width="19" height="1"></rect>
+                    <rect id="Rectangle-124" x="0" y="10" width="19" height="1"></rect>
+                    <rect id="Rectangle-123" x="0" y="8" width="19" height="1"></rect>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

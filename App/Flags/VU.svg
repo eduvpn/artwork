@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>VU</title>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 12 0 12"></polygon>
+    </defs>
+    <g id="VU" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vanuatu-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#BB7474" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#009543" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-55" fill="#D21034" mask="url(#mask-2)" x="0" y="0" width="16" height="6"></rect>
+            <polygon id="Path-2" fill="#000000" fill-rule="nonzero" mask="url(#mask-2)" points="0 1 0 11 6 6"></polygon>
+            <path d="M-0.463119559,0.0128544624 L-1.46145289,1.74201852 L5.91358737,6 L-1.46145289,10.2579815 L-0.463119559,11.9871455 L8.17775665,6.99833333 L16.665,6.99833333 L16.665,5.00166667 L8.17775665,5.00166667 L-0.463119559,0.0128544624 Z" id="Combined-Shape" stroke="#000000" stroke-width="0.67" fill="#FDCE12" mask="url(#mask-2)"></path>
+            <circle id="Oval-62" fill="#FDCE12" mask="url(#mask-2)" cx="2" cy="6" r="1"></circle>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

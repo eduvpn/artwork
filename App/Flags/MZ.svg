@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="MZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mozambique">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#FCE100" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-119-Copy-55" fill="#007168" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <g id="Group-3" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 4.000000)">
+                    <rect id="Rectangle-3" fill="#000000" x="0" y="0.666666667" width="16" height="2.66666667"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#FFFFFF" x="0" y="0" width="16" height="1"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#FFFFFF" x="0" y="3.33333333" width="16" height="1"></rect>
+                </g>
+            </g>
+            <polygon id="Path-2" fill="#D21034" mask="url(#mask-2)" points="0 0 6 6 0 12"></polygon>
+            <polygon id="Star-2" fill="#FCE100" mask="url(#mask-2)" points="2.10500002 6.6457475 1.11305546 7.35287925 1.47904999 6.19096818 0.5 5.46608856 1.71814162 5.45511978 2.10500002 4.29998779 2.49185841 5.45511978 3.71000004 5.46608856 2.73095005 6.19096818 3.09694458 7.35287925"></polygon>
+            <polygon id="X" fill="#000000" mask="url(#mask-2)" points="0.819991886 7.546875 1.24693851 7.546875 2.06106713 6.34347151 2.07571726 6.34347151 2.87728863 7.546875 3.32934976 7.546875 2.31011933 6.05046893 2.31011933 6.03791167 3.3523714 4.52685547 2.92333189 4.52685547 2.1071104 5.74072333 2.09246027 5.74072333 1.28670315 4.52685547 0.832549139 4.52685547 1.84759382 6.01907579 1.84759382 6.03372592"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

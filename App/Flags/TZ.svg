@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="TZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tanzania">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#00A3DD" mask="url(#mask-2)" x="-2e-16" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-69" fill="#1EB53A" mask="url(#mask-2)" points="-2e-16 0 16 0 -2e-16 12"></polygon>
+            <g id="Group-3" mask="url(#mask-2)">
+                <g transform="translate(8.265018, 6.710447) rotate(-35.000000) translate(-8.265018, -6.710447) translate(-2.234982, 4.210447)">
+                    <rect id="Rectangle-3" fill="#000000" x="0" y="0.666666667" width="20.6852551" height="2.66666667"></rect>
+                    <polygon id="Rectangle-3-Copy" fill="#FCD116" points="0 0 20.6852551 0 20.6852551 0.666666667 0 0.666666667"></polygon>
+                    <polygon id="Rectangle-3-Copy-2" fill="#FCD116" points="0 3.33333333 20.6852551 3.33333333 20.6852551 4 0 4"></polygon>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

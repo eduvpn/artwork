@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="TM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Turkmenistan-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#28AE66" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <path d="M10.7692619,1.4433993 C11.1558612,1.4433993 11.521965,1.53115149 11.8487412,1.68782403 L11.8798852,1.70412257 C11.7310907,1.67367481 11.5770297,1.65768498 11.4192341,1.65768498 C10.1568689,1.65768498 9.13351973,2.68103414 9.13351973,3.9433993 C9.13351973,5.20576446 10.1568689,6.22911362 11.4192341,6.22911362 C11.5770297,6.22911362 11.7310907,6.21312379 11.8798852,6.18267603 L11.8487412,6.19897457 C11.521965,6.35564711 11.1558612,6.4433993 10.7692619,6.4433993 C9.38855005,6.4433993 8.26926192,5.32411118 8.26926192,3.9433993 C8.26926192,2.56268743 9.38855005,1.4433993 10.7692619,1.4433993 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(10.076454, 3.943399) scale(-1, 1) rotate(-41.000000) translate(-10.076454, -3.943399) "></path>
+            <rect id="Rectangle-48" fill="#CA3745" mask="url(#mask-2)" x="3" y="0" width="3" height="12"></rect>
+            <rect id="Rectangle-49" fill="#FFFFFF" opacity="0.5" mask="url(#mask-2)" transform="translate(8.768601, 2.670759) rotate(41.000000) translate(-8.768601, -2.670759) " x="7.76860119" y="1.17075893" width="2" height="3"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Kurdistan</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="Kurdistan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#278E43" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-119-Copy-25" fill="#ED2024" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <polygon id="Star-3" fill="#FEBD11" mask="url(#mask-2)" points="8 7.5 7.5528732 8.96649248 7.55786724 7.43335921 6.69834878 8.7029066 7.15501991 7.23935816 5.95948179 8.19915562 6.82725278 6.9352347 5.40192379 7.5 6.60368938 6.54801154 5.07521626 6.6675628 6.5041943 6.11209514 5.00838861 5.77580972 6.53760813 5.6662186 5.20737875 4.90397693 6.70096189 5.25 5.65450555 4.12953059 6.97974089 4.90042219 6.31003983 3.52128368 7.34917439 4.6485467 7.11573448 3.13328158 7.7764366 4.51675376 8 3 8.2235634 4.51675376 8.88426552 3.13328158 8.65082561 4.6485467 9.68996017 3.52128368 9.02025911 4.90042219 10.3454944 4.12953059 9.29903811 5.25 10.7926212 4.90397693 9.46239187 5.6662186 10.9916114 5.77580972 9.4958057 6.11209514 10.9247837 6.6675628 9.39631062 6.54801154 10.5980762 7.5 9.17274722 6.9352347 10.0405182 8.19915562 8.84498009 7.23935816 9.30165122 8.7029066 8.44213276 7.43335921 8.4471268 8.96649248"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

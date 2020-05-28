@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>KZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <path d="M12.9975633,5.13959799 C12.9204655,7.34739124 11.0681953,9.07466115 8.86040201,8.99756331 C6.65260876,8.92046547 4.92533885,7.06819526 5.00243669,4.86040201 C5.07953453,2.65260876 6.93180474,0.925338853 9.13959799,1.00243669 C11.3473912,1.07953453 13.0746611,2.93180474 12.9975633,5.13959799 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.00009415" height="8.00009415" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="KZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kazakhstan-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#00AFCA" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-30" fill="#FEC50C" mask="url(#mask-2)" x="1" y="1" width="1" height="10"></rect>
+            <circle id="Oval-37" fill="#FEC50C" mask="url(#mask-2)" cx="9" cy="5" r="2"></circle>
+            <g id="Oval-37-Copy" stroke-dasharray="12,20" mask="url(#mask-2)" stroke="#FEC50C" stroke-width="2">
+                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

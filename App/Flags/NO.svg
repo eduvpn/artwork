@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>NO</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="24" height="18"></rect>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
     </defs>
-    <g id="Design-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="11-Flags" transform="translate(-148.000000, -371.000000)">
-            <g id="NO" transform="translate(148.000000, 371.000000)">
-                <g id="Norway">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
-                    <rect id="Rectangle-74" fill="#EF2B2D" mask="url(#mask-2)" x="0" y="0" width="24" height="18"></rect>
-                    <path d="M10.125,-1.125 L4.875,-1.125 L4.875,6.375 L-1.125,6.375 L-1.125,11.625 L4.875,11.625 L4.875,19.125 L10.125,19.125 L10.125,11.625 L25.125,11.625 L25.125,6.375 L10.125,6.375 L10.125,-1.125 Z" id="Rectangle-78" stroke="#FFFFFF" stroke-width="2.25" fill="#002868" mask="url(#mask-2)"></path>
-                    <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
-                        <g>
-                            <rect stroke-width="2.25" style="mix-blend-mode: multiply;" x="1.125" y="1.125" width="21.75" height="15.75"></rect>
-                        </g>
-                    </g>
+    <g id="NO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Norway">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-74" fill="#EF2B2D" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <path d="M6.5,-0.5 L3.5,-0.5 L3.5,4.5 L-0.5,4.5 L-0.5,7.5 L3.5,7.5 L3.5,12.5 L6.5,12.5 L6.5,7.5 L16.5,7.5 L16.5,4.5 L6.5,4.5 L6.5,-0.5 Z" id="Rectangle-78" stroke="#FFFFFF" fill="#002868" mask="url(#mask-2)"></path>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
                 </g>
             </g>
         </g>

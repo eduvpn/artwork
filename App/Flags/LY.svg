@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>LY</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="LY" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Libya">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="Group-4" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(5.500000, 4.214286)">
+                    <path d="M1.84945418,0.195987875 C2.39566204,0.195987875 2.87663567,0.475288878 3.1573467,0.898862539 C2.92386462,0.647173493 2.59120873,0.489969688 2.22183593,0.489969688 C1.51826868,0.489969688 0.947914738,1.06032363 0.947914738,1.76389088 C0.947914738,2.46745812 1.51826868,3.03781206 2.22183593,3.03781206 C2.59120873,3.03781206 2.92386462,2.88060826 3.15654797,2.62945626 C2.87663567,3.05249287 2.39566204,3.33179388 1.84945418,3.33179388 C0.983525262,3.33179388 0.281551178,2.62981979 0.281551178,1.76389088 C0.281551178,0.897961959 0.983525262,0.195987875 1.84945418,0.195987875 Z" id="Combined-Shape"></path>
+                    <polygon id="Star" transform="translate(3.383522, 1.693545) rotate(-20.000000) translate(-3.383522, -1.693545) " points="3.3835217 2.05062806 2.92272657 2.40263562 3.11511212 1.85561709 2.63793951 1.52615119 3.21763546 1.54008271 3.3835217 0.984454028 3.54940794 1.54008271 4.12910388 1.52615119 3.65193127 1.85561709 3.84431683 2.40263562"></polygon>
+                </g>
+            </g>
+            <rect id="Rectangle-119-Copy-47" fill="#239E46" mask="url(#mask-2)" x="0" y="9" width="16" height="3"></rect>
+            <rect id="Rectangle-119-Copy-65" fill="#E70013" mask="url(#mask-2)" x="0" y="0" width="16" height="3"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

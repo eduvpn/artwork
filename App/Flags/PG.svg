@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PG</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="PG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Papua-New-Guinea">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <rect id="Rectangle-28-Copy" fill="#FFFFFF" mask="url(#mask-2)" x="2" y="3" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-4" fill="#FFFFFF" mask="url(#mask-2)" x="1" y="6" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-5" fill="#FFFFFF" mask="url(#mask-2)" x="4" y="5" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-7" fill="#FFFFFF" mask="url(#mask-2)" x="3" y="7" width="1" height="1"></rect>
+            <rect id="Rectangle-28-Copy-6" fill="#FFFFFF" mask="url(#mask-2)" x="2" y="10" width="1" height="1"></rect>
+            <polygon id="Rectangle-119-Copy-132" fill="#CE1126" mask="url(#mask-2)" points="0 0 16 0 16 12"></polygon>
+            <polygon id="Combined-Shape" fill="#FCD116" mask="url(#mask-2)" points="10.7423685 4.39800244 9.53175938 4.8900597 8.66119654 4.39800244 9.8711739 3.24415324 8.86598745 2.60288597 8.66119654 1.3249347 10.4843741 2.44918297 11.2908323 0.870103872 12.1814102 1.3249347 11.5381732 2.70940208 12.3403725 2.25641744 13.0993898 2.25641744 13.9625887 3.05541944 13.0993898 3.97331527 14.0864654 4.78872559 14.4151499 6.56362161 13.4318679 6.74571087 13.1693665 5.32820331 12.4463357 4.730917 11.7747005 6.15814174 10.8698818 5.7323447 10.6455198 5.08924273"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

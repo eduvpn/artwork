@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="UZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Uzbekistan-">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#027A02" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-119-Copy-101" fill="#0286CE" mask="url(#mask-2)" x="0" y="0" width="16" height="3.32999992"></rect>
+            <path d="M3.25,0.414999962 C3.42221379,0.414999962 3.58629357,0.449825804 3.73558089,0.512819037 C3.7255596,0.51200502 3.7154812,0.511874944 3.70537242,0.511874944 C3.06851906,0.511874944 2.5522474,1.0281466 2.5522474,1.66499996 C2.5522474,2.30185332 3.06851906,2.81812498 3.70537242,2.81812498 L3.73558089,2.81718089 C3.58629357,2.88017412 3.42221379,2.91499996 3.25,2.91499996 C2.55964406,2.91499996 2,2.3553559 2,1.66499996 C2,0.974644025 2.55964406,0.414999962 3.25,0.414999962 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-119-Copy-102" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <rect id="Rectangle-3-Copy-2" fill="#C70201" mask="url(#mask-2)" x="0" y="8" width="16" height="1"></rect>
+            <rect id="Rectangle-3-Copy-3" fill="#C70201" mask="url(#mask-2)" x="0" y="3.33001709" width="16" height="1"></rect>
+            <polygon id="Combined-Shape" fill="#FFFFFF" opacity="0.699999988" mask="url(#mask-2)" points="6 0.664999962 8 0.664999962 8 2.66499996 4 2.66499996"></polygon>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

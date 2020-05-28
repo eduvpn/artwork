@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AF</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="AF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Afghanistan">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-119-Copy" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <polygon id="Rectangle-119-Copy-58" fill="#FE0000" mask="url(#mask-2)" points="5 0 11 0 11 12 5 12"></polygon>
+            <polygon id="Rectangle-119-Copy-59" fill="#028002" mask="url(#mask-2)" points="11 0 16 0 16 12 11 12"></polygon>
+            <path d="M10.6846614,1.62464155 C11.2475285,1.97398654 11.7475692,2.43964942 12.1443626,3.01395958 C13.6883748,5.24872925 13.0843681,8.2823338 10.795276,9.78970498 C8.50618387,11.2970762 5.39883893,10.7074032 3.85482681,8.47263349 C2.31081468,6.23786382 2.91482135,3.20425927 5.20391346,1.69688809 L5.90283378,2.7084902 C4.18601469,3.83901859 3.73300969,6.114222 4.89101878,7.79029925 C6.04902788,9.46637651 8.37953658,9.90863125 10.0963557,8.77810287 C11.8131747,7.64757448 12.2661797,5.37237107 11.1081707,3.69629382 C10.8155807,3.27280545 10.4443286,2.92139925 10.0141037,2.65437896 L10.6846614,1.62464155 Z" id="Oval-29" fill="#FFFFFF" fill-rule="nonzero" opacity="0.800000012" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-22" fill="#FFFFFF" opacity="0.800000012" mask="url(#mask-2)" x="6" y="3" width="4" height="5"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

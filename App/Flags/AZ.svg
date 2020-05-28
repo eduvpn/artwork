@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AZ</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="AZ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Azerbaijan">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-74" fill="#3F9C35" mask="url(#mask-2)" x="0" y="8" width="16" height="4"></rect>
+            <rect id="Rectangle-77" fill="#00B9E4" mask="url(#mask-2)" x="0" y="0" width="16" height="4"></rect>
+            <rect id="Rectangle-78" fill="#ED2939" mask="url(#mask-2)" x="0" y="4" width="16" height="4"></rect>
+            <path d="M8,4 C8.69718242,4 9.31104628,4.35672919 9.66902019,4.89761619 C9.37171831,4.5761007 8.946847,4.375 8.4750061,4.375 C7.57754339,4.375 6.8500061,5.10253728 6.8500061,6 C6.8500061,6.89746272 7.57754339,7.625 8.4750061,7.625 C8.9473549,7.625 9.37263294,7.42346613 9.66954385,7.10169476 L9.59742065,7.20362046 C9.23237451,7.68733935 8.65270016,8 8,8 C6.8954305,8 6,7.1045695 6,6 C6,4.8954305 6.8954305,4 8,4 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <rect id="Rectangle-206" fill="#FFFFFF" mask="url(#mask-2)" x="9" y="5.5" width="1" height="1"></rect>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

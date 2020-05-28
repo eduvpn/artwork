@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>IM</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="IM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Isle-of-Man">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-100" fill="#CF142B" mask="url(#mask-2)" x="0" y="0" width="16" height="12"></rect>
+            <g id="Group-24" mask="url(#mask-2)">
+                <g transform="translate(2.000000, 0.500000)">
+                    <g id="Group" transform="translate(8.321189, 4.396140) rotate(10.000000) translate(-8.321189, -4.396140) translate(5.821189, 1.896140)">
+                        <rect id="Rectangle-113" fill="#FFFFFF" x="9.06e-14" y="3" width="3" height="1" rx="0.5"></rect>
+                        <g id="Group-23" transform="translate(2.860505, 2.439344) rotate(-8.000000) translate(-2.860505, -2.439344) translate(1.860505, 0.939344)" fill="#FFFFFF">
+                            <rect id="Rectangle-115" x="-6.39e-14" y="-1.079e-13" width="1" height="3" rx="0.5"></rect>
+                            <rect id="Rectangle-115-Copy" x="-6.39e-14" y="-1.079e-13" width="2" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-Copy" transform="translate(4.311900, 3.801600) rotate(-120.000000) translate(-4.311900, -3.801600) translate(1.811900, 1.301600)">
+                        <rect id="Rectangle-113" fill="#FFFFFF" x="9.06e-14" y="3" width="3" height="1" rx="0.5"></rect>
+                        <g id="Group-23" transform="translate(2.860505, 2.439344) rotate(-8.000000) translate(-2.860505, -2.439344) translate(1.860505, 0.939344)" fill="#FFFFFF">
+                            <rect id="Rectangle-115" x="-6.39e-14" y="-1.079e-13" width="1" height="3" rx="0.5"></rect>
+                            <rect id="Rectangle-115-Copy" x="-6.39e-14" y="-1.079e-13" width="2" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-Copy-2" transform="translate(6.043950, 7.265702) rotate(120.000000) translate(-6.043950, -7.265702) translate(3.543950, 4.765702)">
+                        <rect id="Rectangle-113" fill="#FFFFFF" x="9.06e-14" y="3" width="3" height="1" rx="0.5"></rect>
+                        <g id="Group-23" transform="translate(2.860505, 2.439344) rotate(-8.000000) translate(-2.860505, -2.439344) translate(1.860505, 0.939344)" fill="#FFFFFF">
+                            <rect id="Rectangle-115" x="-6.39e-14" y="-1.079e-13" width="1" height="3" rx="0.5"></rect>
+                            <rect id="Rectangle-115-Copy" x="-6.39e-14" y="-1.079e-13" width="2" height="1" rx="0.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Overlay" mask="url(#mask-2)" opacity="0" stroke="#000000" stroke-opacity="0.503742351">
+                <g>
+                    <rect style="mix-blend-mode: multiply;" x="0.5" y="0.5" width="15" height="11"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

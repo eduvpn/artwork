@@ -20,6 +20,9 @@ It is a JSON version of an OpenStreetMap document found
 Maybe there are better, i.e. more complete lists available, but this is what
 I found by browsing the web.
 
+**NOTE**: [this](http://www.foreignword.com/countries/English.htm) also looks
+like an interesting resource.
+
 # License
 
 This artwork is for use by the official eduVPN applications only. If you want

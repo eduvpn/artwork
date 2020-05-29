@@ -48,7 +48,10 @@
     "en": "Austria"
   },
   "AU": {
-    "en": "Australia"
+    "da": "Australien",
+    "en": "Australia",
+    "nb": "Australia",
+    "nl": "Australië"
   },
   "AW": {
     "en": "Aruba",
@@ -157,7 +160,7 @@
     "fr": "République Démocratique du Congo"
   },
   "CF": {
-    "en": "Centrafrican Republic",
+    "en": "Central African Republic",
     "fr": "République centrafricaine",
     "sg": "Ködörösêse tî Bêafrîka"
   },
@@ -173,7 +176,7 @@
     "rm": "Svizra"
   },
   "CI": {
-    "en": "Côte d'Ivoire",
+    "en": "Ivory Coast",
     "fr": "Côte d'Ivoire"
   },
   "CK": {
@@ -226,7 +229,9 @@
   },
   "DE": {
     "de": "Deutschland",
-    "en": "Germany"
+    "en": "Germany",
+    "nb": "Tyskland",
+    "nl": "Duitsland"
   },
   "DJ": {
     "aa": "Gabuutih",
@@ -237,7 +242,9 @@
   },
   "DK": {
     "da": "Danmark",
-    "en": "Denmark"
+    "en": "Denmark",
+    "nb": "Danmark",
+    "nl": "Denemarken"
   },
   "DM": {
     "en": "Dominica"
@@ -282,7 +289,9 @@
   },
   "FI": {
     "en": "Finland",
-    "fi": "Suomi"
+    "fi": "Suomi",
+    "nb": "Finland",
+    "nl": "Finland"
   },
   "FJ": {
     "en": "Fiji"
@@ -300,7 +309,9 @@
   },
   "FR": {
     "en": "France",
-    "fr": "France"
+    "fr": "France",
+    "nb": "Frankrike",
+    "nl": "Frankrijk"
   },
   "GA": {
     "en": "Gabon",
@@ -513,6 +524,8 @@
   },
   "LK": {
     "en": "Sri Lanka",
+    "nb": "Sri Lanka",
+    "nl": "Sri Lanka",
     "si": "ශ්‍රී ලංකා",
     "ta": "இலங்கை"
   },
@@ -544,6 +557,8 @@
     "ar": "المغرب",
     "en": "Morocco",
     "fr": "Maroc",
+    "nb": "Marokko",
+    "nl": "Marokko",
     "zgh": "ⵍⵎⵖⵔⵉⴱ"
   },
   "MC": {
@@ -656,12 +671,16 @@
     "es": "Nicaragua"
   },
   "NL": {
+    "da": "Holland",
     "en": "The Netherlands",
+    "nb": "Nederland",
     "nl": "Nederland"
   },
   "NO": {
+    "da": "Norge",
     "en": "Norway",
     "nb": "Norge",
+    "nl": "Noorwegen",
     "nn": "Noreg"
   },
   "NP": {
@@ -702,7 +721,10 @@
     "en": "Philippines"
   },
   "PK": {
-    "en": "پاکستان"
+    "en": "Pakistan",
+    "nb": "Pakistan",
+    "nl": "Pakistan",
+    "ur": "پاکستان"
   },
   "PL": {
     "en": "Poland",
@@ -904,10 +926,14 @@
   },
   "UA": {
     "en": "Ukraine",
+    "nb": "Ukraina",
+    "nl": "Oekraïne",
     "uk": "Україна"
   },
   "UG": {
-    "en": "Uganda"
+    "en": "Uganda",
+    "nb": "Uganda",
+    "nl": "Oeganda"
   },
   "UM": {
     "en": "United States Minor Outlying Islands"

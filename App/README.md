@@ -82,9 +82,12 @@ For the secure internet usecase, after successfully authenticated at **one** cou
 ![11 Flags.png](Screenshots/11%20Flags.png)
 
  ### Screen 1C - First screen: Let's Connect! VPN 
-This is the Let's Connect! VPN version of the app which doesn't have the discovery available.
+This is the Let's Connect! VPN version of the app which doesn't have the discovery available. In essence this is the same screen as 03B.
 First screen will be shown when:
  - app is freshly installed
  - user has choosen "add other server" just like screen 1B
+ 
+ For the Let's Connect! VPN version of the App these screens should **NOT** be shown:
+ - 01A, 01B, 02, 03A, 11 (country flags)
  
 ![01C Let's Connect.png](Screenshots/01C%20Let's%20Connect.png)

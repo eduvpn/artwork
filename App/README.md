@@ -1,7 +1,7 @@
 # App Flow
 
 ![01A First screen.png](Screenshots/01A%20First%20screen.png)
-## Screen 1A - First screen
+### Screen 1A - First screen
 First screen will be shown when:
  - app is freshly installed
  - user has choosen "add other server" in screen 1B

@@ -11,6 +11,7 @@ First screen will be shown when:
 This screen is shown when app starts and user has authorised in earlier phase. When clicking on "Add Other Server" the app should go to screen 1A. Via this screen the user should be able to add more VPN servers  to screen 1B.
 
 When an user has already authenticated for a single secure internet server, he is able to connect to the  other countries as well! The "change location" button should view the other countries to which the VPN client could connect.
+
 ![01B Fist screen - When used before.png](Screenshots/01B%20First%20screen%20-%20When%20used%20before.png)
 
  ### Screen 3A - search results
@@ -50,26 +51,32 @@ In screen 6A the user should choose which VPN profile to connect to. After enabl
 
 ### Screen 7B - Not connected
 When OAuth and x509 certificate have been expired the client can't connect and this screen should be shown. This screen should **only** be shown when the client was before in screen  05. 
+
 ![07B Not connected  - expired.png](Screenshots/07B%20Not%20connected%20%20-%20expired.png)
 
 ### Screen 7 - Not connected
 When the VPN connection somehow has dropped, being in screen 05, this screen can be shown. 
+
 ![07 Not connected  - Secure internet.png](Screenshots/07%20Not%20connected%20%20-%20Secure%20internet.png)
 
 ### Screen 8 - Connection info
 Screen 5 and Screen 6B contain an option to view the connection info, so shis should be shown.
+
 ![08 Connection info.png](Screenshots/08%20Connection%20info.png)
 
 ### Screen 9 - Settings
 Almost all screens contain the settings button right on top which would trigger this screen.
+
 ![09 Settings.png](Screenshots/09%20Settings.png)
 
 ### Screen 10 - Connection error
 This screen could be triggered after screen 04.
+
 ![10 Connection Error.png](Screenshots/10%20Connection%20Error.png)
 
 ### Screen 11 - Country flags
 For the secure internet usecase, after successfully authenticated at **one** country server, the user is able to connect to the other countries as well. These flags can be used for the available countries in the secure internet discovery.
+
 ![11 Flags.png](Screenshots/11%20Flags.png)
 
  ### Screen 1C - First screen: Let's Connect! VPN 

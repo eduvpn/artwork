@@ -1,13 +1,23 @@
 # App Flow
 
-![01A First screen.png](Screenshots/01A%20First%20screen.png)
 ### Screen 1A - First screen
 First screen will be shown when:
  - app is freshly installed
  - user has choosen "add other server" in screen 1B
  
+![01A First screen.png](Screenshots/01A%20First%20screen.png)
+
+ ### Screen 1C - First screen: Let's Connect! VPN 
+This is the Let's Connect! VPN version of the app which doesn't have the discovery available.
+First screen will be shown when:
+ - app is freshly installed
+ - user has choosen "add other server" just like screen 1B
+ 
 ![01C Let's Connect.png](Screenshots/01C%20Let's%20Connect.png)
 
+ ### Screen 3A - search results
+ When an user in screen 1C types a few characters, he should get search results from the new discovery for both secure internet  and institute access usecases.
+ 
 ![03A Results.png](Screenshots/03A%20Results.png)
 
 ![03B Result with 2dots.png](Screenshots/03B%20Result%20with%202dots.png)

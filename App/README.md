@@ -17,9 +17,16 @@ First screen will be shown when:
  
 ![03B Result with 2dots.png](Screenshots/03B%20Result%20with%202dots.png)
 
+ ### Screen 3D - authorization
+This screen will be shown when webbrowser opened and an user should authenticate in the browser. Usually when an user clicks on the organisation name in Screen 3A, hostname in screen 3B or when the OAuth token expired when clicking in screen 1B this notification will be shown.
+
 ![03D Authorization.png](Screenshots/03D%20Authorization.png)
 
+ ### Screen 4 - Connecting
+
+After successful authethentication, when there is only **one** VPN profile available, the client should directly connect and show this screen. The 'toggle' in this screen should trigger disconnect and go to screen 1B
 ![04 Connecting  - Secure internet.png](Screenshots/04%20Connecting%20%20-%20Secure%20internet.png)
+
 
 ![05 Connected  - Secure internet.png](Screenshots/05%20Connected%20%20-%20Secure%20internet.png)
 

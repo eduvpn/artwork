@@ -2,6 +2,10 @@
 
 ![01A First screen.png](Screenshots/01A%20First%20screen.png)
 
+First screen will be shown when:
+ -app is freshly installed
+ -user has choosen "add server" in screen 3A
+
 ![01C Let's Connect.png](Screenshots/01C%20Let's%20Connect.png)
 
 ![03A Results.png](Screenshots/03A%20Results.png)

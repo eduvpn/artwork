@@ -7,19 +7,14 @@ First screen will be shown when:
  
 ![01A First screen.png](Screenshots/01A%20First%20screen.png)
 
- ### Screen 1C - First screen: Let's Connect! VPN 
-This is the Let's Connect! VPN version of the app which doesn't have the discovery available.
-First screen will be shown when:
- - app is freshly installed
- - user has choosen "add other server" just like screen 1B
- 
-![01C Let's Connect.png](Screenshots/01C%20Let's%20Connect.png)
-
  ### Screen 3A - search results
- When an user in screen 1C types a few characters, he should get search results from the new discovery for both secure internet  and institute access usecases.
+ When an user in screen 1C types a few characters, he should get search results from the new discovery for both secure internet  and institute access usecases. The 'found' results are clickable and should trigger an authentication session in the webbrowser.
  
 ![03A Results.png](Screenshots/03A%20Results.png)
 
+ ### Screen 3B - add a host-name
+ As soon as an user is typing "two dots" in screen 3A, which indicates he wants to connect to a specific hostname, screen 3B should be shown.  The removal of the "two dots" should go back to screen 3A.
+ 
 ![03B Result with 2dots.png](Screenshots/03B%20Result%20with%202dots.png)
 
 ![03D Authorization.png](Screenshots/03D%20Authorization.png)
@@ -43,3 +38,11 @@ First screen will be shown when:
 ![10 Connection Error.png](Screenshots/10%20Connection%20Error.png)
 
 ![11 Flags.png](Screenshots/11%20Flags.png)
+
+ ### Screen 1C - First screen: Let's Connect! VPN 
+This is the Let's Connect! VPN version of the app which doesn't have the discovery available.
+First screen will be shown when:
+ - app is freshly installed
+ - user has choosen "add other server" just like screen 1B
+ 
+![01C Let's Connect.png](Screenshots/01C%20Let's%20Connect.png)

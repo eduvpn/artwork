@@ -1,6 +1,6 @@
 # App Flow
 
-![01A First screen.png]("Screenshots/01A First screen.png")
+![01A First screen.png]("./Screenshots/01A First screen.png")
 
 ![01C Let's Connect.png](Screenshots/01C Let's Connect.png)
 

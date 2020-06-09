@@ -7,6 +7,8 @@ First screen will be shown when:
  
 ![01A First screen.png](Screenshots/01A%20First%20screen.png)
 
+**All screens**, except 1A contain a question mark on top right. This question-mark should open a webbrowser and go to url: https://www.eduvpn.org
+
 ### Screen 1B - First screen when used App before 
 This screen is shown when app starts and user has authorised in earlier phase. When clicking on "Add Other Server" the app should go to screen 1A. Via this screen the user should be able to add more VPN servers  to screen 1B.
 

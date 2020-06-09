@@ -65,7 +65,7 @@ Almost all screens contain the settings button right on top which would trigger 
 ![09 Settings.png](Screenshots/09%20Settings.png)
 
 ### Screen 10 - Connection error
-This screen could be triggered after screen 04
+This screen could be triggered after screen 04.
 ![10 Connection Error.png](Screenshots/10%20Connection%20Error.png)
 
 ### Screen 11 - Country flags

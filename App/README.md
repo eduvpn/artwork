@@ -47,7 +47,7 @@ After screen 3D, when more than one VPN profile is available, this screen will b
 ![06A Select profile.png](Screenshots/06A%20Select%20profile.png)
 
 ### Screen 6B - Select profile
-In screen 6A the user should choose which VPN profile to connect to. After enabling a VPN profile this screen should be shown.
+In screen 6A the user should choose which VPN profile to connect to. After enabling a VPN profile this screen should be shown. The "connected" profile is ONLY shown under the "Connection info", which is NOT open by default. Be aware, no "back arrow" should be visable in this screen.
 
 ![06B Connected  - Institute Access.png](Screenshots/06B%20Connected%20%20-%20Institute%20Access.png)
 

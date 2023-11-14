@@ -6,7 +6,7 @@ applications and website(s).
 * `Legacy/`: contains the old artwork of our current eduVPN applications and 
   site(s);
 * `App/`: contains the new artwork for eduVPN applications;
-* `Website/`: contain the new artowrk for the eduVPN website(s);
+* `Website/`: contain the new artwork for the eduVPN website(s);
 
 # Country Code Mapping
 
